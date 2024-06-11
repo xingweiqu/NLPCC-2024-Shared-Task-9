@@ -25,11 +25,30 @@ In our training data we provide the format like:
 ```
 **we allow you to use extra data apart from our provided training data**
 
-### Test Data:
+### Validation & Test Data:
 
 We will provide you with multiple-choice questions, each containing four options. Based on the descriptions of two tasks, task 1 and task 2, please select the option that most closely aligns with the given metaphor.
 
+#### Subtask 1: Data Format and Files
+Data format details and file links for Subtask 1 are provided below:
 
+- **Validation File:** The validation data includes the following fields: `本体, 喻体, 共性, 正确选项, 选项A, 选项B, 选项C, 选项D`.  
+  [View the Validation File](./data/data/test/track1_validation.csv)
+
+- **Test File:** The test data includes these fields: `本体, 喻体, 共性, 选项A, 选项B, 选项C, 选项D`. You will need to determine the correct option among the four provided.  
+  [View the Test File](./data/data/test/track1_test.csv)
+
+#### Subtask 2: Data Format and Files
+Data format details and file links for Subtask 2 are provided below:
+
+- **Validation File:** The validation data includes the following fields: `比喻句, 正确答案, 答案A_本体, 答案A_喻体, 答案A_共性, 答案B_本体, 答案B_喻体, 答案B_共性, 答案C_本体, 答案C_喻体, 答案C_共性, 答案D_本体, 答案D_喻体, 答案D_共性`.  
+  [View the Validation File](./data/data/test/track2_validation.csv)
+
+- **Test File:** The test data includes these fields: `比喻句, 答案A_本体, 答案A_喻体, 答案A_共性, 答案B_本体, 答案B_喻体, 答案B_共性, 答案C_本体, 答案C_喻体, 答案C_共性, 答案D_本体, 答案D_喻体, 答案D_共性`. You will need to determine the correct option among the four provided.  
+  [View the Test File](./data/data/test/track2_test.csv)
+
+
+### Evaluation
 For each task we provide two tracks to evaluation:
 
 - Track1 : LLM Track
