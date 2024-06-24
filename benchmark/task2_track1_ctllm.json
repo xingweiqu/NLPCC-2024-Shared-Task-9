@@ -1,0 +1,2002 @@
+[
+    {
+        "metaphor_id": 0,
+        "answer": "\n这段中文句子中的本体是“柳树”，喻体是“彩带”，共同点是绿色。\n\n因此，这个句子的本体是“柳树”，喻体是“彩带”，共性是绿色。"
+    },
+    {
+        "metaphor_id": 1,
+        "answer": "\n这段中文句子中，“桃花”是本体，“少女的脸颊”是喻体，“羞涩的红晕”是喻体与本体的共性。"
+    },
+    {
+        "metaphor_id": 2,
+        "answer": "\n这段中文句子中的本体是“山谷中的回声”，喻体是“一位悠远的诗人”，喻体是“吟唱着古老的诗篇”，本体和喻体的共性是传递沧桑和厚重。"
+    },
+    {
+        "metaphor_id": 3,
+        "answer": "\n这段中文句子中的本体是“人”，喻体是“河流”，“多变”是两者的共性。"
+    },
+    {
+        "metaphor_id": 4,
+        "answer": "\n这段中文句子中的本体是“希望”，喻体是“星光”，喻体是“闪烁的星光”，本体和喻体的共性是“指引前行的路”。"
+    },
+    {
+        "metaphor_id": 5,
+        "answer": "\n这段中文句子中，“月光”是本体，“银色纱幔”是喻体，“覆盖”是共性。\n\n本体：月光\n喻体：银色纱幔\n共性：覆盖\n\n因此，这段中文句子中的本体是月光，喻体是银色纱幔，两者共同具有覆盖的特性。"
+    },
+    {
+        "metaphor_id": 6,
+        "answer": "\n这段中文句子中的本体是“他的脸”，喻体是“傍晚的天色”，共性是温柔和明朗。"
+    },
+    {
+        "metaphor_id": 7,
+        "answer": "\n这段中文句子中的本体是“红尘”，喻体是“大雨”，共性是“淋湿了所有的梦想，却洗不净内心的尘埃”。"
+    },
+    {
+        "metaphor_id": 8,
+        "answer": "\n这段中文句子中的本体是“细雨”，喻体是“山间的精灵”，共性是“给大自然带来了无尽的生机与活力”。"
+    },
+    {
+        "metaphor_id": 9,
+        "answer": "\n这段中文句子中的本体是“门”，喻体是“怪兽的大口”，共同点是“看不见深处”。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 10,
+        "answer": "\n这段中文句子中，“狗”是本体，“猫”是喻体，“臣子”是本体和喻体的共同特征，即忠诚。\n\n因此，这段中文句子的本体是“狗”，喻体是“猫”，共性是“忠诚”。"
+    },
+    {
+        "metaphor_id": 11,
+        "answer": "本体：鹰\n喻体：蝴蝶\n共性：速度快"
+    },
+    {
+        "metaphor_id": 12,
+        "answer": "\n这段中文句子中的本体是“爱”，喻体是“灯塔”，共性是“淡定”。"
+    },
+    {
+        "metaphor_id": 13,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“铠甲和软肋”。\n\n共性是，“坚硬”和“脆弱”都是形容“铠甲和软肋”的。\n\n因此，这段中文句子中的本体、喻体以及共性都是“爱情”。"
+    },
+    {
+        "metaphor_id": 14,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 15,
+        "answer": "\n本体: 宇宙\n喻体: 画家\n共性: 创造出令人陶醉的夜空\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 16,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 17,
+        "answer": "\n这段中文句子中的本体是“父母”，喻体是“弓手”，“掌控者”是“父母”和“弓手”的共同点。\n\n因此，这个句子的本体是“父母”，喻体是“弓手”，“掌控者”是“父母”和“弓手”的共同点。"
+    },
+    {
+        "metaphor_id": 18,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 19,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 20,
+        "answer": "\n这段中文句子中的本体是“孤山东边的白堤和西南的‘苏堤’”，喻体是“两条绿色的绸带”，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色绸带的一种比喻，喻体是本体绿色"
+    },
+    {
+        "metaphor_id": 21,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 22,
+        "answer": "\n这段中文句子中，“舞者的裙摆”是喻体，“树叶”是本体，“随风摇曳生姿”是喻象。\n\n这段中文句子中，“树叶”和“舞者的裙摆”都用来比喻舞姿的优雅和美丽，“随风摇曳生姿”则描述了舞姿的动态和生动。\n\n因此，这段中文句子中的本体是“树叶”，喻体是“舞者的裙摆”，喻象是“随风摇曳生姿”。"
+    },
+    {
+        "metaphor_id": 23,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 24,
+        "answer": "A:烟花;喝彩;绚烂\nB:奋斗;烟花;绚烂\nC:喝彩;烟花;绚烂，美好\nD:祝福;烟花;绚烂\n\n因此答案为：A、B、C"
+    },
+    {
+        "metaphor_id": 25,
+        "answer": "\n这段中文句子中的本体是“美人蕉”，喻体是“鲜红花朵”，共同点是它们都为周围带来炽热而震撼的美感。"
+    },
+    {
+        "metaphor_id": 26,
+        "answer": "\n这段中文句子中的本体是“大地”，喻体是“棉被”，共性是“温暖而深沉”。"
+    },
+    {
+        "metaphor_id": 27,
+        "answer": "\n这段中文句子出自《人民日报》，其中本体是“人性”，喻体是“一团火焰”，喻体是“火焰”，喻体是“无法燃烧”，本体和喻体是“人性”和“一团火焰”，共性是“无法燃烧”。"
+    },
+    {
+        "metaphor_id": 28,
+        "answer": "\n这段中文句子中的本体是“冰晶”，喻体是“心灵”，它们共同的特点是都是透明而带有寒冷的感觉。"
+    },
+    {
+        "metaphor_id": 29,
+        "answer": "\n这段中文句子中的本体是旅行，喻体是梦，喻体是旅途，喻体是自由和惊奇，喻体是美梦，喻体是自由和惊奇，喻体是恍若隔世。\n\n因此，这段中文句子中的本体、喻体以及共性是旅行、梦、逃离现实、体验不同生活、自由和惊奇、自由和惊奇、美梦、恍若隔世。"
+    },
+    {
+        "metaphor_id": 30,
+        "answer": "\n因此答案为：B"
+    },
+    {
+        "metaphor_id": 31,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 32,
+        "answer": "\n这段中文句子中的本体是“阴霾”，喻体是“粘痰”，它们都是比喻性的表达，用来形容北京上空阴霾的天气。\n\n这段中文句子中的共性是，它们都描述了天气的阴霾，以及这种阴霾给人们带来的压抑和不舒服的感觉。"
+    },
+    {
+        "metaphor_id": 33,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 34,
+        "answer": "\n这段中文句子中的本体是“青春”，喻体是“一场梦”，喻体是“化学”。\n\n共性是：\n\n1. 每个人青春都是一场梦，一种化学的发疯形式。\n\n2. 青春是一种化学的发疯形式。\n\n3. 每个人青春都是一场梦。\n\n4. 化学是一种发疯的形式。"
+    },
+    {
+        "metaphor_id": 35,
+        "answer": "\n本体: 枫叶\n喻体: 蝴蝶\n共性: 风一吹, 枫叶脱离了树枝, 翩翩起舞。"
+    },
+    {
+        "metaphor_id": 36,
+        "answer": "\n这段中文句子中的本体是“山顶”，喻体是“画布”，喻体是“风景”，喻体是“画”。\n\n这段中文句子中的共性是“视觉上的享受和心灵的宁静”，这种感受让人远离尘世的喧嚣，感受到一种纯粹和自由的情感流动。\n\n因此，这段中文句子中的本体、喻体以及共性是“山顶”、“画布”、“视觉上的享受和心灵的宁静”。"
+    },
+    {
+        "metaphor_id": 37,
+        "answer": "\n这段中文句子中的本体是“泰山”，喻体是“男儿”，共同点是“顶天立地”。\n\n因此，这段中文句子的本体是“泰山”，喻体是“男儿”，共性是“顶天立地”。"
+    },
+    {
+        "metaphor_id": 38,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 39,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 40,
+        "answer": "\n这段中文句子中的本体是河马，喻体是巨兽，喻体是温柔、宁静，整个句子描述了河马在水中悠然游动，展现出大自然中的和谐与宁静，强调了河马温柔、宁静的特点。"
+    },
+    {
+        "metaphor_id": 41,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 42,
+        "answer": "\n这段中文句子中的本体是经历，喻体是日记本，共同点是记录了我们的个人历史和情感的载体。"
+    },
+    {
+        "metaphor_id": 43,
+        "answer": "\n这段中文句子中，“猛狮”是喻体，“阿喀琉斯”是本体，“威武雄壮”是喻体的共同特征。\n\n因此，这段中文句子的本体是“阿喀琉斯”，喻体是“猛狮”，喻体的共同特征是“威武雄壮”。"
+    },
+    {
+        "metaphor_id": 44,
+        "answer": "\n这段中文句子中的本体是“猫咪”，喻体是“灵魂”，共性是“自信、优雅”。"
+    },
+    {
+        "metaphor_id": 45,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 46,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 47,
+        "answer": "\n这段中文句子中，“岁月”是喻体，“刻刀”是本体，“深邃的痕迹”是喻体，“沧桑的印记”是本体。\n\n共性：“岁月”和“刻刀”都用于雕刻，“深邃的痕迹”和“沧桑的印记”都刻下了痕迹，都表达了岁月和刻刀留下的深刻印记。"
+    },
+    {
+        "metaphor_id": 48,
+        "answer": "\n这段中文句子中的本体是“卷毛狮子狗”，喻体是“小绒球”，共同点是“滚动”。"
+    },
+    {
+        "metaphor_id": 49,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 50,
+        "answer": "\n这段中文句子中的本体是白云，喻体是贝壳，共同点是美丽。"
+    },
+    {
+        "metaphor_id": 51,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 52,
+        "answer": "\n这段中文句子中的本体是“雪铺地”，喻体是“白雪铺地”，共同点是“洁白无瑕”。\n\n因此，这段中文句子中的本体是“雪团似的棉花”，喻体是“白雪铺地”，共同点是“洁白无瑕”。"
+    },
+    {
+        "metaphor_id": 53,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 54,
+        "answer": "\n这段中文句子中，“词汇”是喻体，“激情、想象”是本体，“词语”是喻体，“美丽”是本体，“激动、想象”是本体。\n\n因此，这段中文句子的本体是“词汇”、“激情、想象”和“词语”，喻体是“桃花”、“溪畔”和“桃花”，而“词语”是“词汇”和“激情、想象”的共性。"
+    },
+    {
+        "metaphor_id": 55,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 56,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 57,
+        "answer": "\n这段中文句子中的本体是“音乐”，喻体是“露水”，共性是“甘甜、清新”。"
+    },
+    {
+        "metaphor_id": 58,
+        "answer": "\n本体：桐花\n喻体：天使的双翼\n共性：在阳光下闪耀着圣洁的光芒"
+    },
+    {
+        "metaphor_id": 59,
+        "answer": "\n这段中文句子中的本体是“雾”，喻体是“面纱”，共性是“盖住了视线”。"
+    },
+    {
+        "metaphor_id": 60,
+        "answer": "\n这段中文句子中的本体是“剑”，喻体是天外来客划破长空，威势很强。\n\n因此，这段中文句子中的本体是“剑”，喻体是“天外来客划破长空”，以及“威势很强”。"
+    },
+    {
+        "metaphor_id": 61,
+        "answer": "\n本体: 蜂窝\n喻体: 粗人\n共性: 把东西不断的送进去"
+    },
+    {
+        "metaphor_id": 62,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 63,
+        "answer": "\n这段中文句子中的本体是朔方的雪花，喻体是南方的雪花，共同点是都如沙如粉，又细又密。"
+    },
+    {
+        "metaphor_id": 64,
+        "answer": "\n这段中文句子中，“大脑”是喻体，“刷了石灰”是本体，“惨白，空空”是喻体的比喻义。\n\n这段中文句子中，“大脑”是比喻对象，“刷了石灰”是比喻对象，“惨白，空空”是比喻对象之间的比喻关系。\n\n这段中文句子中，“大脑”是本体，“刷了石灰”是喻体，“惨白，空空”是比喻对象之间的比喻关系。\n\n这段中文句子中，“大脑”是本体，“刷了石灰”是喻体，“惨白，空空”是比喻对象之间的比喻关系。\n\n这段中文句子中，“大脑”是喻体，“刷了石灰”是本体，“惨白，空空”是比喻对象之间的比喻关系。\n\n这段中文句子中，“大脑”是喻体，“刷了石灰”是本体，“惨白，空空”是比喻对象之间的比喻关系。\n\n这段中文句子中，“大脑”是喻体，“刷了石灰”是本体，“惨白，空空”是比喻对象之间的比喻关系。\n\n这段中文句子中，“大脑”是喻体，“刷了石灰”是"
+    },
+    {
+        "metaphor_id": 65,
+        "answer": "\n这段中文句子中的本体是“舵手”，喻体是“领导者在群众中”，共同点是“影响着整个群众的方向和速度”。"
+    },
+    {
+        "metaphor_id": 66,
+        "answer": "本体：东方天边的彩霞\n喻体：如霜枫，如榴火，如玛瑙，如琥珀\n共性：时刻在变幻\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 67,
+        "answer": "\n这段中文句子中，“桐花”是本体，“天空中的繁星点点”是喻体，“绿叶之间”是喻体与本体的共性。\n\n因此，这段中文句子中的本体是“桐花”，喻体是“天空中的繁星点点”，喻体与本体的共性是“绿叶之间”。"
+    },
+    {
+        "metaphor_id": 68,
+        "answer": "\n这段中文句子中的本体是“童年”，喻体是“记忆”，“光芒永不褪色”是两者的共性。"
+    },
+    {
+        "metaphor_id": 69,
+        "answer": "本体: 桂花\n喻体: 柳絮\n共性: 飞舞"
+    },
+    {
+        "metaphor_id": 70,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 71,
+        "answer": "\n本体：初生的蓓蕾\n喻体：太阳献吐它的娇艳\n共性：稚嫩又危险\n\n因此答案为：C"
+    },
+    {
+        "metaphor_id": 72,
+        "answer": "\n这段中文句子中，“真理”是本体，“明灯”是喻体，“迷茫”是共性。\n\n因此，这段中文句子的本体是“真理”，喻体是“明灯”，而“迷茫”则是“真理”和“明灯”的共同点。"
+    },
+    {
+        "metaphor_id": 73,
+        "answer": "\n这段中文句子中的本体是“春天”，喻体是“娃娃”，共同点是“新生和开始”。\n\n因此答案为：C"
+    },
+    {
+        "metaphor_id": 74,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 75,
+        "answer": "\n这段中文句子中的本体是“忠厚老实人的恶毒”，喻体是“砂砾”和“出骨鱼片里未净的刺”，而共性是带来伤痛。"
+    },
+    {
+        "metaphor_id": 76,
+        "answer": "\n这段中文句子中的本体是“结婚”，喻体是“鸟笼”，喻体是“笼子外的鸟想住进去，笼内的鸟想飞出来”。\n这段中文句子中的本体是“结婚”，喻体是“鸟笼”，喻体是“笼子外的想进来，笼子内的想出去”。\n这段中文句子中的本体是“结婚”，喻体是“鸟笼”，喻体是“笼子外的想进来，笼子内的想出去”。\n这段中文句子中的本体是“结婚”，喻体是“鸟笼”，喻体是“笼子外的想进来，笼子内的想出去”。\n这段中文句子中的本体是“结婚”，喻体是“鸟笼”，喻体是“笼子外的想进来，笼子内的想出去”。\n这段中文句子中的本体是“结婚”，喻体是“鸟笼”，喻体是“笼子外的想进来，笼子内的想出去”。\n这段中文句子中的本体是“结婚”，喻体是“鸟笼”，喻体是“笼子外的想进来，笼子内的想出去”。\n"
+    },
+    {
+        "metaphor_id": 77,
+        "answer": "\n这段中文句子中的本体是“荷花”，喻体是“仙女”，“含笑伫立，娇羞欲语”是“荷花”的动作和状态，“含笑”是“荷花”的属性，“娇羞欲语”是“含笑”的进一步描述。\n\n因此，这段中文句子中的本体、喻体以及共性是“荷花”、“仙女”和“含笑”。"
+    },
+    {
+        "metaphor_id": 78,
+        "answer": "\n这段中文句子中的本体是“花园”，喻体是“心灵”，它们共同表达了“荒芜”和“等待”这两个概念。\n\n\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 79,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 80,
+        "answer": "\n这段中文句子中的本体是“建筑物”，喻体是“骨骼”，共同点是“支撑着”。"
+    },
+    {
+        "metaphor_id": 81,
+        "answer": "\n这段中文句子中的本体是“岁月”，喻体是“流水”，共同点是“冷冽”。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 82,
+        "answer": "\n本体:本体是疑问,喻体:动力,喻体是求知,喻体是好奇,本体和喻体是共性的。"
+    },
+    {
+        "metaphor_id": 83,
+        "answer": "\n这段中文句子中的本体是老舍，喻体是云中的雁阵，而共同点是它们都带有诗意。"
+    },
+    {
+        "metaphor_id": 84,
+        "answer": "\n这段中文句子中的本体是“迎客松”，喻体是“将军”，共性是“沉稳而威严”。\n\n因此答案为：A:迎客松;将军;肃然起敬"
+    },
+    {
+        "metaphor_id": 85,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 86,
+        "answer": "\n这段中文句子中的本体是“伦敦”，喻体是“沉睡的巨兽”，共性是“静谧而安详”。"
+    },
+    {
+        "metaphor_id": 87,
+        "answer": "\n这段中文句子中的本体是“西风”，喻体是“古老的诗人”，它们共同的特点是都是低吟着岁月的歌。\n\n因此，这段中文句子的本体是“西风”，喻体是“古老的诗人”，它们共同的特点是都是低吟着岁月的歌。"
+    },
+    {
+        "metaphor_id": 88,
+        "answer": "\n这段中文句子中的本体是外婆家的老屋，喻体是沉默的智者，外婆家的老屋和沉默的智者之间具有共性，都是比喻的对象，都是通过隐喻的方式表达出外婆家的老屋和沉默的智者之间的相似之处。"
+    },
+    {
+        "metaphor_id": 89,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 90,
+        "answer": "\n这段中文句子中的本体是“沙粒”，喻体是“海洋”，共同点是“金色”。\n\n其中，“阳光洒在塔克拉玛干沙漠上”是本体，“沙粒闪烁着金色的光芒”是喻体，“金色”是共性。\n\n因此，这段中文句子中的本体是“沙粒”，喻体是“海洋”，共同点是“金色”。"
+    },
+    {
+        "metaphor_id": 91,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 92,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 93,
+        "answer": "\n这段中文句子中的本体是金银岛的地图，喻体是神秘画卷。通过对比，我们可以发现，本体和喻体之间存在着共性，即都是用来引导人们前行。\n\n因此，这段中文句子中的本体是金银岛的地图，喻体是神秘画卷，它们之间的共性是引导人们前行。"
+    },
+    {
+        "metaphor_id": 94,
+        "answer": "\n这段中文句子中的本体是“晚霞”，喻体是“大自然的调色板”，共同点是都为夏季的傍晚增添了一抹浪漫的色彩。"
+    },
+    {
+        "metaphor_id": 95,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 96,
+        "answer": "\n这段中文句子中的本体是家园，喻体是饭，共同点是让流浪者一次又一次去补充能量。"
+    },
+    {
+        "metaphor_id": 97,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 98,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 99,
+        "answer": "\n这段中文句子中的本体是“菊花”，喻体是“彩珠”，共同点是“鲜艳夺目的色泽和吸引人的外表”。"
+    },
+    {
+        "metaphor_id": 100,
+        "answer": "\n这段中文句子中的本体是“她”，喻体是“眼睛”，共同点是“灰色而深邃”，带有“岁月侵蚀”和“时代印迹”。"
+    },
+    {
+        "metaphor_id": 101,
+        "answer": "\n这段中文句子中的本体是“茂密的竹林”，喻体是“一支绿色交响乐团”，共同点是“悦耳动听”。"
+    },
+    {
+        "metaphor_id": 102,
+        "answer": "\n这段中文句子中的本体是“后脊背”，喻体是“平板儿”，共性是“瘦”。"
+    },
+    {
+        "metaphor_id": 103,
+        "answer": "\n这段中文句子中的本体是“女傧相”，喻体是“破晓的云”。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 104,
+        "answer": "\n这段中文句子中的本体是“摩门教徒”，喻体是“蜂群”，共性是“忙碌”。\n\n中文句子：六月里的一个早晨，天气暖洋洋的，摩门教徒从大清早就像蜂群一样开始忙碌。\n\n英文翻译：A morning in June, warm and sunny, Mormons from the early hours of the day like bees in a hive and begin to work.\n\n中文句子中的本体是“摩门教徒”，喻体是“蜂群”，共性是“忙碌”。\n\n中文句子：六月里的一个早晨，天气暖洋洋的，摩门教徒从大清早就像蜂群一样开始忙碌。\n\n英文翻译：A morning in June, warm and sunny, Mormons from the early hours of the day like bees in a hive and begin to work.\n\n中文句子中的本体是“摩门教徒”，喻体是“蜂群”，共性是“忙碌”。\n\n中文句子：六月里的一个早晨，天气暖洋洋的，摩门教徒从大清早就像蜂群一样开始忙碌。\n\n英文翻译：A morning in June, warm and sunny, Mormons from the early hours of the day"
+    },
+    {
+        "metaphor_id": 105,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 106,
+        "answer": "A:泪珠;珍珠;连续，圆润\nB:眼泪;珍珠;喝陈醋\nC:晶莹;面颊;珍珠\nD:珍珠;断线;喝五味醋\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 107,
+        "answer": "\n这段中文句子中的本体是想象力，喻体是烟花，共同点是五彩斑斓。"
+    },
+    {
+        "metaphor_id": 108,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 109,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 110,
+        "answer": "\n这段中文句子中的本体是“火山”，喻体是“烟囱里的火焰”，而“爆发”则是两者之间的共性。"
+    },
+    {
+        "metaphor_id": 111,
+        "answer": "\n这段中文句子中的本体是内心的挣扎，喻体是困在茧中的蝴蝶，共同点是渴望飞翔却无法挣脱束缚。"
+    },
+    {
+        "metaphor_id": 112,
+        "answer": "\n本体：雪片\n喻体：扯破了的棉絮\n共性：没有目的地四处飘落"
+    },
+    {
+        "metaphor_id": 113,
+        "answer": "\n这段中文句子中的本体是“霸王龙”，喻体是“君王”，共性是“自由和惊奇”。\n\n因此，这段中文句子中的本体是“霸王龙”，喻体是“君王”，共性是“自由和惊奇”。"
+    },
+    {
+        "metaphor_id": 114,
+        "answer": "\n这段中文句子中的本体是“魔法天赋”，喻体是“夜空中最亮的星辰”，共性是“璀璨夺目”。"
+    },
+    {
+        "metaphor_id": 115,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 116,
+        "answer": "本体:个体\n喻体:孤舟\n共性:渺小和微不足道"
+    },
+    {
+        "metaphor_id": 117,
+        "answer": "\n这段中文句子中的本体是“城市”，喻体是“梦”，喻体是欲望和恐惧，而“欲望和恐惧”是“城市”的共性。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 118,
+        "answer": "\n这段句子中的本体是“星子”，喻体是“雨点”，喻体是“稀疏的雨点”，喻体是“点缀于漆黑的天幕”。\n\n这段句子中的共性是“稀疏的点缀”，指的是星子在雨点稀疏的夜空中的点缀作用。"
+    },
+    {
+        "metaphor_id": 119,
+        "answer": "\n这段句子中的本体是“圆脸蛋”，喻体是“苹果”，共同点是“红润润的”。"
+    },
+    {
+        "metaphor_id": 120,
+        "answer": "\n这段中文句子中的本体是业力，喻体是种子，共同点是它们都是通过善行与恶行而种下的，这些善行与恶行在未来可能会结出不同的果实。"
+    },
+    {
+        "metaphor_id": 121,
+        "answer": "\n这段中文句子中的本体是“生活”，喻体是“这双破旧的鞋子”，喻体是“鞋子”，本体和喻体都含有“生活”，因此，本体和喻体是相同的，共性是“生活”。"
+    },
+    {
+        "metaphor_id": 122,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 123,
+        "answer": "\n这段中文句子中的本体是“困难”，喻体是“高山”，而“困难”和“高山”的共同点是都需要通过努力才能克服，并且克服之后能够带来更广阔的视野和成就。因此，这段中文句子中的本体、喻体以及共性都是“困难”和“高山”。"
+    },
+    {
+        "metaphor_id": 124,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 125,
+        "answer": "本体:文化工业\n喻体:机器\n共性:组织性和整合性\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 126,
+        "answer": "\n这段中文句子中的本体是风筝，喻体是激情四溢的舞者，共同点是轻盈、自由、充满活力。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 127,
+        "answer": "本体: 夜空\n喻体: 宫殿\n共性: 璀璨\n"
+    },
+    {
+        "metaphor_id": 128,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 129,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 130,
+        "answer": "\n这段中文句子中的本体是“月亮”，喻体是“珍珠”，“镶嵌在天上”是“镶嵌”的动作，“珍贵美丽”是“珍贵”和“美丽”的形容词修饰语。\n\n因此，这段中文句子中的本体、喻体以及共性是：\n\n本体：月亮\n喻体：珍珠\n共性：珍贵美丽"
+    },
+    {
+        "metaphor_id": 131,
+        "answer": "\n这段中文句子中的本体是“月光”，喻体是“银霜”，共同点是“朦胧美丽”。"
+    },
+    {
+        "metaphor_id": 132,
+        "answer": "\n这段中文句子中的本体是温柔，喻体是城墙，共同点是保护着内心的柔软，抵御外界的侵袭。"
+    },
+    {
+        "metaphor_id": 133,
+        "answer": "\n本体: 他们的友情\n喻体: 银杏\n共性: 友情, 深秋的银杏, 金黄璀璨, 历久弥坚\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 134,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 135,
+        "answer": "\n这段中文句子中的本体是家庭，喻体是创作，家庭与创作之间的关系是相互依存、相互影响的，就像灌木叶子上的蜂蜜，曾经带给他慰藉。因此，本体、喻体以及共性都是家庭与创作。"
+    },
+    {
+        "metaphor_id": 136,
+        "answer": "\n这段中文句子中的本体是“心灵”，喻体是“天空”，共性是无拘无束。\n\n因此答案为：A:心灵;天空中;漂浮着"
+    },
+    {
+        "metaphor_id": 137,
+        "answer": "\n这段中文句子中的本体是“人影”，喻体是“诗意的韵律”，共同点是它们都为黑夜赋予了生命与感情。\n\n因此，这段中文句子中的本体是“人影”，喻体是“诗意的韵律”，它们都是为黑夜赋予了生命与感情，而“宁静的月光下”则是喻体。"
+    },
+    {
+        "metaphor_id": 138,
+        "answer": "\nA:大树下;破碎的阳光;小灯笼\nB:破碎的阳光;小灯笼;草叶\nC:破碎的阳光;小灯笼;消缺\nD:滚动的小灯笼;小铃铛;轻轻的声音\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 139,
+        "answer": "\n这段中文句子中，“荷花的色彩明艳，就像一幅幅色彩丰富的油画，为池塘增添了无尽的生机”中的本体是“荷花”，喻体是“油画”，“无尽的生机”是“色彩丰富的油画”所具有的特征，“荷花的色彩明艳”是“油画”所具有的特征，“池塘”是“池塘”所具有的特征，“无尽的生机”是“荷花的色彩明艳”和“池塘”所共同具有的特征。因此，这段中文句子中的本体、喻体以及共性是“荷花的色彩明艳”和“油画”。"
+    },
+    {
+        "metaphor_id": 140,
+        "answer": "\n这段中文句子中的本体是“酸梅汤”，喻体是“夜漏”，共同点是“滴落”。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 141,
+        "answer": "\n这段中文句子中的本体是“秋天的风”，喻体是“一首古老的诗篇”，喻体是“岁月”，而本体和喻体的共性是吟唱着岁月的沧桑。"
+    },
+    {
+        "metaphor_id": 142,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 143,
+        "answer": "\n这段中文句子中，“生命”是本体，“繁花”是喻体，“绚烂而短暂”是喻体的共同特征。\n\n本体：生命\n喻体：繁花\n特征：绚烂、短暂\n\n因此，这段中文句子中的本体是“生命”，喻体是“繁花”，它们共同具有的特征是“绚烂而短暂”。"
+    },
+    {
+        "metaphor_id": 144,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 145,
+        "answer": "\n这段中文句子中的本体是“山脊”，喻体是“大海”，共性是“波涛滚滚”。\n\n因此答案为：A:山脊;波涛滚滚;大海\n\n这段中文句子中的本体是“整个山脊”，喻体是“大海”，共性是“连绵起伏，广阔无垠”。\n\n因此答案为：B:整个山脊;大海;连绵起伏，广阔无垠\n\n这段中文句子中的本体是“白色大海”，喻体是“山脊”，共性是“波涛滚滚”。\n\n因此答案为：C:在山脊上;大海;白色汹涌\n\n这段中文句子中的本体是“白色汹涌”，喻体是“大海”，共性是“波涛滚滚”。\n\n因此答案为：D:大海;白色汹涌;整个山脊\n\n这段中文句子中的本体是“整个山脊”，喻体是“大海”，共性是“波涛滚滚”。"
+    },
+    {
+        "metaphor_id": 146,
+        "answer": "\n这段中文句子中的本体是“油灯”，喻体是“风吹”，共同点是“熄灭”。\n\n因此，这段中文句子可以翻译成英语如下：\n\nA: Lamp (as a wind can knock it down)\nB: He (as a lamp, vulnerable and unsteady)\nC: A lamp (as a wind can knock it down)\nD: A lamp (as a wind can knock it down)\n\n这段中文句子中的本体是“油灯”，喻体是“风吹”，共同点是“熄灭”。"
+    },
+    {
+        "metaphor_id": 147,
+        "answer": "\n这段中文句子中的本体是“星星”，喻体是“心形糖果”，“甜蜜的味道弥漫在空气中”是“星星”和“心形糖果”的共同点。\n\n因此答案为：A:甜蜜味道;星星;幸福\n\n"
+    },
+    {
+        "metaphor_id": 148,
+        "answer": "\n这段中文句子中的本体是“世界”，喻体是“画卷”，而“探索和发现”则是两者的共性。"
+    },
+    {
+        "metaphor_id": 149,
+        "answer": "\n这段中文句子中的本体是“他”，喻体是“航海家的指南针”，共性是“指引方向”。"
+    },
+    {
+        "metaphor_id": 150,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 151,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 152,
+        "answer": "\n这段中文句子中，“挑战”是本体，“风暴”是喻体，“猛烈”是共性。\n\n中文中，“风暴”通常用来比喻猛烈的、强大的、不可预测的、令人恐惧的事物，而“挑战”则是指面对困难或危险时，需要采取的措施或方法。\n\n这句话用“风暴”来比喻“挑战”，强调了挑战的猛烈和难以应对，同时也强调了“挑战”可以让我们变得更加坚韧和成熟。\n\n因此，“挑战”是本体，“风暴”是喻体，“猛烈”是共性。"
+    },
+    {
+        "metaphor_id": 153,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 154,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 155,
+        "answer": "\n这段中文句子中的本体是“小青蛙”，喻体是“小孩”，共性是“蹦来蹦去”。"
+    },
+    {
+        "metaphor_id": 156,
+        "answer": "\n这段中文句子中的本体是月亮，喻体是盘子，共同点是挂在天上。\n\n其中，A项中的本体是太阳，喻体是月饼，共同点是悬在天上。\n\nB项中的本体是月亮，喻体是月饼，共同点是悬在天上。\n\nC项中的本体是月亮，喻体是月亮，共同点是又大又白。\n\nD项中的本体是月亮，喻体是月亮，共同点是悬在天上。"
+    },
+    {
+        "metaphor_id": 157,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 158,
+        "answer": "\n这段中文句子中的本体是“她的笑容”，喻体是“春天的阳光”，共性是“温暖而明媚”。"
+    },
+    {
+        "metaphor_id": 159,
+        "answer": "\n这段中文句子中的本体是“绿绸带”，喻体是“孤山东边的白堤和西南的苏堤”，句子的共性是“轻柔地飘浮在碧水之上”。"
+    },
+    {
+        "metaphor_id": 160,
+        "answer": "\n这段中文句子中，“刻刀”和“画笔”是喻体，“木头上”和“画布上”是本体，“生活”是喻体，“纹理”是本体。\n\n共性是“刻刀在木头上舞动，就像画笔在画布上挥洒”，其中“刻刀”和“画笔”是喻体，“木头上”和“画布上”是本体，“刻刀”和“画笔”都用于刻画，“木头上”和“画布上”都是媒介，“生活”是喻体，“纹理”是本体。"
+    },
+    {
+        "metaphor_id": 161,
+        "answer": "\n这段中文句子中的本体是“柳树”，喻体是“仙女”，共同点是“翩翩起舞”。\n\n因此，答案为：A、B、C、D"
+    },
+    {
+        "metaphor_id": 162,
+        "answer": "\n这段中文句子中的本体是“秋水般深邃”，喻体是“她的眼眸”，共同点是它们都用来形容秋水般深邃的眼眸。"
+    },
+    {
+        "metaphor_id": 163,
+        "answer": "\n这段中文句子中的本体是“他布满岁月痕迹的脸”，喻体是“翻阅的书籍”，喻体是“书籍”，本体和喻体都指的是“岁月痕迹”和“翻阅”，因此它们之间具有共性。"
+    },
+    {
+        "metaphor_id": 164,
+        "answer": "本体:岁月\n喻体:无情的刻刀\n共性:刻下了痕迹"
+    },
+    {
+        "metaphor_id": 165,
+        "answer": "\n这段中文句子中，\"树叶飘下来\"是本体，\"金蝴蝶翩翩起舞\"是喻体，而\"翩翩起舞\"则是喻体的共同特征。\n\n因此，这段中文句子的本体是\"树叶\"，喻体是\"金蝴蝶\"，而喻体的共同特征是\"翩翩起舞\"。"
+    },
+    {
+        "metaphor_id": 166,
+        "answer": "\n这段中文句子中的本体是“山间的野花”，喻体是“繁星点点”，共同点是“给这片土地增添了无尽的生机与活力”。"
+    },
+    {
+        "metaphor_id": 167,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 168,
+        "answer": "\n这段中文句子中的本体是“蜿蜒曲折的乡村小路”，喻体是“他的生活”，喻体是“生活”，本体和喻体的共性是“坎坷曲折又充满不确定性”。"
+    },
+    {
+        "metaphor_id": 169,
+        "answer": "\n这段中文句子中的本体是“烦恼”，喻体是“一把刀”，喻体是“一把刀”，喻体是“剑”，喻体是“刀”。\n\n共性是：烦恼都是尖锐而刺激的，都是刻骨铭心的。"
+    },
+    {
+        "metaphor_id": 170,
+        "answer": "\n这段中文句子中的本体是“金钱”，喻体是“魔法”，共性是“神奇”。"
+    },
+    {
+        "metaphor_id": 171,
+        "answer": "\n这段中文句子中，“智慧”是本体，“道路”是喻体，“迷茫”是共性。\n\n因此，这段中文句子的本体是“智慧”，喻体是“道路”，而“迷茫”则是两者的共性。"
+    },
+    {
+        "metaphor_id": 172,
+        "answer": "\n这段中文句子中的本体是“心情”，喻体是“风”。\n\n“麦田里的风”这个比喻形象地描述了“心情”的“平静”和“狂暴”这两种状态。\n\n因此，“他的心情像麦田里的风，忽而平静，忽而狂暴。”中的本体是“心情”，喻体是“风”，以及“平静”和“狂暴”这两个状态。"
+    },
+    {
+        "metaphor_id": 173,
+        "answer": "\n这段中文句子中，“时间仿佛变得缓慢而沉重”中的本体是“时间”，喻体是“缓慢而沉重”。\n\n“每一刻都像是被拉长”中的本体是“每一刻”，喻体是“被拉长”。\n\n“让我更加深刻地感受到生命的脆弱与珍贵”中的本体是“生命”，喻体是“脆弱与珍贵”。\n\n“这座孤岛上”中的本体是“孤岛”，喻体是“这座”。\n\n“仿佛变得”中的本体是“仿佛”，喻体是“变得”。\n\n“变得”中的本体是“变得”，喻体是“缓慢而沉重”。\n\n“而沉重”中的本体是“而沉重”，喻体是“沉重”。\n\n“每一刻”中的本体是“每一刻”，喻体是“被拉长”。\n\n“被拉长”中的本体是“被拉长”，喻体是“时间”。\n\n“让我更加”中的本体是“让我更加”，喻体是“更加”。\n\n“深刻地”中的本体是“深刻地”，喻体是“感受到”。\n\n“感受到”"
+    },
+    {
+        "metaphor_id": 174,
+        "answer": "A:意志;忠诚;磁针石\nB:磁针石;意志;忠诚\nC:意志;磁针石;忠诚，坚持\nD:忠诚;磁针石;意志\n\n这句话的本体是“磁针石”，喻体是“忠诚”，共同点是“坚持”。"
+    },
+    {
+        "metaphor_id": 175,
+        "answer": "\n这段中文句子中的本体是“高校长”，喻体是“没发酵的馒头”，共性是“发黄，硬实”。"
+    },
+    {
+        "metaphor_id": 176,
+        "answer": "\n这段中文句子中的本体是笑声，喻体是清风，共性是吹散乌云。"
+    },
+    {
+        "metaphor_id": 177,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 178,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 179,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 180,
+        "answer": "\n这段中文句子中的本体是“他”，喻体是“周吉婕”，以及“苍白”和“没有血色”这两个共性。"
+    },
+    {
+        "metaphor_id": 181,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 182,
+        "answer": "\n这段中文句子中的本体是“大榔树”，喻体是“翠绿的竹子”，喻体是“翠绿的竹子”，喻体是“遮风挡雨”。\n\n共性是“龙堤”，“龙堤”是“大榔树”的所在地，也是人们休息、游玩的地方。\n\n因此，这段中文句子中的本体是“大榔树”，喻体是“翠绿的竹子”，喻体是“遮风挡雨”。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 183,
+        "answer": "\n这段中文句子中的本体是“花朵”，喻体是“地毯”，喻体是“色彩”，共同点是都为夏季增添了无尽的色彩。"
+    },
+    {
+        "metaphor_id": 184,
+        "answer": "本体：语言\n喻体：电话线\n共性：插头"
+    },
+    {
+        "metaphor_id": 185,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 186,
+        "answer": "\n本体: 他的心\n喻体: 荒芜的沙漠\n共性: 渴望被滋润。"
+    },
+    {
+        "metaphor_id": 187,
+        "answer": "\n这段中文句子中的本体是“岁月”，喻体是“流水”，共性是“匆匆而逝”。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 188,
+        "answer": "\n这段中文句子中的本体是“人生”，喻体是“马拉松”，共同点是“持久又充满挑战”。"
+    },
+    {
+        "metaphor_id": 189,
+        "answer": "\n这段中文句子中的本体是友情，喻体是坚固的桥梁，共性是连接着我们的心灵。"
+    },
+    {
+        "metaphor_id": 190,
+        "answer": "\n这段中文句子中的本体是“幸福”，喻体是“红宝石”，共同点是它们都是“在凄凉中愈发熠熠夺目”。"
+    },
+    {
+        "metaphor_id": 191,
+        "answer": "\n这段中文句子中的本体是“眼睛”，喻体是“水晶球儿”，“见人只是转个不停”是这两个概念的共同点。"
+    },
+    {
+        "metaphor_id": 192,
+        "answer": "\n这段中文句子中的本体是“猫咪”，喻体是“星星”，共性是“灵活”。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 193,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 194,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 195,
+        "answer": "\n这段中文句子中的本体是“他的智慧”，喻体是“金矿”，共性是“总是能给人们带来无尽的启示和收获”。"
+    },
+    {
+        "metaphor_id": 196,
+        "answer": "\n这段中文句子中的本体是“小企鹅”，喻体是“北极熊”，共同点是它们都依偎在一起，犹如一幅温馨的画面。\n\n因此，这段中文句子的本体是“小企鹅”，喻体是“北极熊”，共性是它们都依偎在一起，犹如一幅温馨的画面。"
+    },
+    {
+        "metaphor_id": 197,
+        "answer": "\n这段中文句子中的本体是爱情，喻体是烟花，共同点是短暂而绚烂，让人难以忘怀。"
+    },
+    {
+        "metaphor_id": 198,
+        "answer": "A:树叶;火;把人们的心也给燃烧起来了\nB:火;树叶;把人们的心也给燃烧起来了\nC:叶子;雨;把人们的心也给燃烧起来了\nD:雨;叶子;把人们的心也给燃烧起来了\n\n因此答案为：A、B、C"
+    },
+    {
+        "metaphor_id": 199,
+        "answer": "\n这段中文句子中的本体是“饭”，喻体是“氛围”，“各种声音”是“氛围”的定语，共同点是“一锅煮沸的粥”。"
+    },
+    {
+        "metaphor_id": 200,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 201,
+        "answer": "\n这段中文句子中的本体是“喜悦”，喻体是“春风拂面”，喻体与“春风”有共性，即“带来温暖舒适”。\n\n因此，这段中文句子中的本体、喻体以及共性是：\n\n本体：喜悦\n喻体：春风拂面\n共性：带来温暖舒适"
+    },
+    {
+        "metaphor_id": 202,
+        "answer": "\n这段中文句子中的本体是“每一天”，喻体是“一幅画”，它们共同构成了一个隐喻句子，描述了雅舍里生活的丰富多彩。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 203,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 204,
+        "answer": "本体: 他的话语\n喻体: 钥匙\n共性: 打开心门\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 205,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 206,
+        "answer": "\n这段中文句子中的本体是“教育”，喻体是“清泉”，共性是“能够冲刷掉社会的污垢和偏见”。"
+    },
+    {
+        "metaphor_id": 207,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 208,
+        "answer": "\n这段中文句子中的本体是“橡树”，喻体是“哨兵”，共性是“挺立”。"
+    },
+    {
+        "metaphor_id": 209,
+        "answer": "\n这段中文句子中的本体是“这个世界”，喻体是“冬日阳光”，共同点是“温暖又明亮”。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 210,
+        "answer": "\n这段中文句子中的本体是水花，喻体是梅花，因为水花和梅花都是晶莹而多芒的，远望像一朵朵的白梅，点点随风飘散。"
+    },
+    {
+        "metaphor_id": 211,
+        "answer": "\n这段中文句子中的本体是“小草”，喻体是“地毯”，共同点是“绿油油”。"
+    },
+    {
+        "metaphor_id": 212,
+        "answer": "\n这段中文句子中，“纤月”是本体，“玻璃窗上的白色”是喻体。\n\n共性：\n\n1. 十一月尾\n2. 白色\n3. 玻璃窗\n\n因此，这段中文句子中的本体是“纤月”，喻体是“玻璃窗上的白色”，以及两者都具有“十一月尾”和“白色”的特征。"
+    },
+    {
+        "metaphor_id": 213,
+        "answer": "\n这段中文句子中的本体是“爱”，喻体是“阳光”，“温暖而明亮”是“爱”带给“我们”的感受，“照亮我们前行的路”是“爱”的作用。\n\n因此，这段中文句子中的本体、喻体以及共性是：爱，阳光，温暖，明亮，温暖，照亮。"
+    },
+    {
+        "metaphor_id": 214,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 215,
+        "answer": "\n这段中文句子中的本体是树缝里漏着的一两点路灯光，喻体是渴睡人的眼。\n\n这段中文句子中的本体是树缝里漏着的一两点路灯光，喻体是渴睡人的眼。\n\n这段中文句子中的本体是树缝里漏着的一两点路灯光，喻体是渴睡人的眼，它们都表达了“光线微弱、无精打采”的含义。\n\n这段中文句子中的本体是树缝里漏着的一两点路灯光，喻体是渴睡人的眼，它们都强调了光线微弱的状态，以及无精打采的状态。\n\n这段中文句子中的本体是树缝里漏着的一两点路灯光，喻体是渴睡人的眼，它们都使用了“没精打采”这个比喻，来形容光线微弱的状态。\n\n这段中文句子中的本体是树缝里漏着的一两点路灯光，喻体是渴睡人的眼，它们都使用了“没精打采”这个比喻，来形容一种无精打采的状态。\n\n这段中文句子中的本体是树缝里漏着的一两点路灯光，喻体是渴睡人的眼，它们都使用了“没精打采”这个比喻，来形容一种无精打"
+    },
+    {
+        "metaphor_id": 216,
+        "answer": "\n这段中文句子中的本体是“鸡蛋”，喻体是“古老的宝石”，共性是“蕴含着生命的奥秘”。"
+    },
+    {
+        "metaphor_id": 217,
+        "answer": "\n这段中文句子中的本体是“海鸥”，喻体是“黑色的闪电”，共性是“穿行”。"
+    },
+    {
+        "metaphor_id": 218,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 219,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 220,
+        "answer": "\n这段中文句子中的本体是“神学”，喻体是“深邃无垠的海洋”，共同点是“探索与学习”。"
+    },
+    {
+        "metaphor_id": 221,
+        "answer": "\n这段中文句子中的本体是“她的话语”，喻体是“溪流”，共性是“柔和”。"
+    },
+    {
+        "metaphor_id": 222,
+        "answer": "\n这段中文句子中的本体是纳尔齐斯，喻体是山间的小溪，喻体不受外界干扰，与主体纳尔齐斯具有共性。"
+    },
+    {
+        "metaphor_id": 223,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 224,
+        "answer": "\n这段中文句子中的本体是“友谊”，喻体是“明灯”，共同点是照亮彼此的道路。"
+    },
+    {
+        "metaphor_id": 225,
+        "answer": "\n这段中文句子中的本体是棕楣、芭蕉，喻体是雪茄烟丝，共同点是都被毒日烘焙得干黄松卷。"
+    },
+    {
+        "metaphor_id": 226,
+        "answer": "\n这段中文句子中的本体是“长城”，喻体是“长龙”，而“蜿蜒盘旋”则是两者的共性。"
+    },
+    {
+        "metaphor_id": 227,
+        "answer": "\n这段中文句子中的本体是“时间”，喻体是“风”，共同点是无法抓住。\n\n其中，“时间”可以比喻为“风”，因为时间流逝的速度非常快，无法捕捉，就像风一样难以控制。而“风”可以比喻为“时间”，因为风可以带来各种变化，就像时间可以带来各种影响。\n\n因此，这段中文句子中的本体是“时间”，喻体是“风”，它们共同的特点是无法抓住。"
+    },
+    {
+        "metaphor_id": 228,
+        "answer": "\n这段中文句子中的本体是“梦想”，喻体是“远方的灯塔”，共同点是它们都指向“指引”。\n\n因此，这段中文句子的本体是“梦想”，喻体是“远方的灯塔”，共性是“指引”。"
+    },
+    {
+        "metaphor_id": 229,
+        "answer": "\n这段中文句子中的本体是“他的心灵”，喻体是“湖泊”，共性是“平静”。"
+    },
+    {
+        "metaphor_id": 230,
+        "answer": "\n这段中文句子中的本体是“人类的心灵”，喻体是“复杂而博大的迷宫”，共同点是“充满了不同的音乐”。"
+    },
+    {
+        "metaphor_id": 231,
+        "answer": "\n因此答案为：A\n\n这段中文句子中的本体是“歌声”，喻体是“山间的清泉”，共性是“纯净而悠扬”。"
+    },
+    {
+        "metaphor_id": 232,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 233,
+        "answer": "\n这段中文句子中的本体是“我的留学生活”，喻体是“大海中航行的船”。\n\n共性是“起起伏伏”，因为“风浪”和“平静”是航海中常见的现象。\n\n因此，这段中文句子中的本体、喻体以及共性是“我的留学生活”，“大海中航行的船”，以及“起起伏伏”。"
+    },
+    {
+        "metaphor_id": 234,
+        "answer": "\n这段中文句子中的本体是书籍，喻体是茶香和淡淡的茶香，它们共同的特点是让人沉醉其中，流连忘返。\n\n因此，这段中文句子中的本体是书籍，喻体是茶香和淡淡的茶香，它们共同的特点是让人沉醉其中，流连忘返。"
+    },
+    {
+        "metaphor_id": 235,
+        "answer": "\n这段中文句子中的本体是“河水”，喻体是“丝带”，喻体是“绿色”，喻体是“江南的土地”。\n\n共性是赋予江南土地以生机与柔美的特质。"
+    },
+    {
+        "metaphor_id": 236,
+        "answer": "\n这段中文句子中的本体是时间，喻体是沙漏中的沙子，句子的共性是无声无息的不停流逝。"
+    },
+    {
+        "metaphor_id": 237,
+        "answer": "\n这段中文句子中的本体是“他的拳头”，喻体是“铁锤”，而“坚硬”是两者的共性。"
+    },
+    {
+        "metaphor_id": 238,
+        "answer": "\n这段中文句子中的本体是“难题”，喻体是“暗礁”，共性是“让人防不胜防”。"
+    },
+    {
+        "metaphor_id": 239,
+        "answer": "\n这段中文句子中的本体是“耐心”，喻体是“河流”，喻体是“河流”，喻体是“大海”。\n\n共性是“不断积累着力量，最终形成浩渺的大海”。\n\n因此，这段中文句子中的本体是“耐心”，喻体是“河流”，喻体是“大海”，喻体是“河流”，喻体是“大海”。"
+    },
+    {
+        "metaphor_id": 240,
+        "answer": "\n这段中文句子中的本体是书籍，喻体是汪洋大海中的灯塔，喻体与本体之间具有共性，即本体和喻体都用来指代指引与导航。"
+    },
+    {
+        "metaphor_id": 241,
+        "answer": "\n这段中文句子中的本体是爱情，喻体是刀，共同点是既能给人带来无尽的快乐，也能让人痛不欲生。"
+    },
+    {
+        "metaphor_id": 242,
+        "answer": "\n这段中文句子中的本体是“眼神”，喻体是“海”，共性是“吞噬一切黑暗”。"
+    },
+    {
+        "metaphor_id": 243,
+        "answer": "\n这段中文句子中的本体是“辫子”，喻体是“小狗的尾巴”，喻体是黄色的，本体是短的。\n\n这段中文句子中的本体是“土地庙”，喻体是“小狗的尾巴”，喻体是黄色的，本体是短的。\n\n这段中文句子中的本体是“我”，喻体是“小狗的尾巴”，喻体是黄色的，本体是短的。\n\n这段中文句子中的本体和喻体都是“小狗的尾巴”，喻体是黄色的，本体是短的。"
+    },
+    {
+        "metaphor_id": 244,
+        "answer": "\n这段中文句子中的本体是“等待你的时间”，喻体是“沙漏中的沙粒”，喻体是“沙粒”，喻体是“流逝”。\n\n共性是“从不停歇”。"
+    },
+    {
+        "metaphor_id": 245,
+        "answer": "\n这段中文句子中的本体是神学，喻体是一棵树，共同点是庞大而有序。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 246,
+        "answer": "\n这段中文句子中的本体是“城市”，喻体是“迷宫”，共同点是“让人迷失方向”。"
+    },
+    {
+        "metaphor_id": 247,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 248,
+        "answer": "\n这段中文句子中的本体是“施克维尔的心”，喻体是“荒漠”，共性是“空旷荒芜”。"
+    },
+    {
+        "metaphor_id": 249,
+        "answer": "\n这段中文句子中的本体是“桐花”，喻体是“小草”，共同点是“轻盈地在地上舞动”。"
+    },
+    {
+        "metaphor_id": 250,
+        "answer": "\n这段中文句子中的本体是“人性中的自我实现”，喻体是“火种一样”，共同点是“点燃人内心的激情和动力”。"
+    },
+    {
+        "metaphor_id": 251,
+        "answer": "\n这段中文句子中的本体是“鹦鹉螺号”，喻体是“闪电”，共同点是“像闪电般迅速向上升”。\n\n因此答案为：A:鹦鹉螺号;闪光;速度飞过\n\n"
+    },
+    {
+        "metaphor_id": 252,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 253,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 254,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“脆弱的水手”。\n\n共性是“憔悴”，因为爱情是一个经历痛苦和磨难的过程，而水手则代表着疲惫和受伤。"
+    },
+    {
+        "metaphor_id": 255,
+        "answer": "\n这段中文句子中的本体是英雄的事迹和精神，喻体是文化景观，句子的共同点是它们都反映了英雄事迹和精神对文化传承和发展的重要性。"
+    },
+    {
+        "metaphor_id": 256,
+        "answer": "\n示例:\nA: The sun rose in the east.\nB: The warmth of the sun's rays.\nC: The sun's warmth.\nD: The warmth of the sun.\n\n示例:\nA: The sun was shining brightly.\nB: The warmth of the sun's rays.\nC: The warmth of the sun.\nD: The sun's warmth.\n\n示例:\nA: The sun was setting in the west.\nB: The coldness of the sun's rays.\nC: The coldness of the sun.\nD: The coldness of the sun's rays.\n\n示例:\nA: The sun was setting in the west.\nB: The coldness of the sun's rays.\nC: The coldness of the sun.\nD: The coldness of the sun's rays.\n\n示例:\nA: The sun was setting in the west.\nB: The warmth of the sun's rays.\nC: The warmth of the sun.\nD: The warmth of the sun's rays.\n\n示例:\nA: The sun was setting in the west.\nB: The warmth"
+    },
+    {
+        "metaphor_id": 257,
+        "answer": "A:生活;海;时而宽广平静，时而狭窄湍急。\n\n这句话中的本体是生活，喻体是海，生活就像一条河流，时而宽广平静，时而狭窄湍急。海是宽广平静的，生活也是宽广平静的，海是狭窄湍急的，生活也是狭窄湍急的，两者形成对比，形成一种比喻关系。"
+    },
+    {
+        "metaphor_id": 258,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“一幅未完成的油画”，共同点是它们都带有遗憾的色彩。"
+    },
+    {
+        "metaphor_id": 259,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 260,
+        "answer": "\n这段中文句子中的本体是屋角，喻体是低沉龌龊的乌云，而共性是斑驳又混乱。"
+    },
+    {
+        "metaphor_id": 261,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 262,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 263,
+        "answer": "\n这段中文句子中的本体是“玉兰”，喻体是“钻石”，共同点是“熠熠生辉，光彩夺目”。"
+    },
+    {
+        "metaphor_id": 264,
+        "answer": "本体: 夜晚的影子\n喻体: 一首无声的诗\n共性: 轻盈, 寂静, 梦幻"
+    },
+    {
+        "metaphor_id": 265,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 266,
+        "answer": "\n这段中文句子中的本体是“她的话”，喻体是“受寒侵袭的小花”，共同点是“在阳光照射后开放”。"
+    },
+    {
+        "metaphor_id": 267,
+        "answer": "\n这段中文句子中的本体是“她的歌声”，喻体是“露珠”。\n\n共性是“清新和希望”。\n\n因此，这段中文句子中的本体是“她的歌声”，喻体是“露珠”，以及“清新和希望”是它们的共性。"
+    },
+    {
+        "metaphor_id": 268,
+        "answer": "\n因此答案为：A\n"
+    },
+    {
+        "metaphor_id": 269,
+        "answer": "\n这段中文句子中的本体是光明和黑暗，喻体是硬币的两面，它们共同构成了生活的完整画卷。\n\n因此，这段中文句子中的本体、喻体以及共性是光明和黑暗，硬币的两面，它们共同构成了生活的完整画卷。"
+    },
+    {
+        "metaphor_id": 270,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 271,
+        "answer": "\n这段中文句子中的本体是“大海”，喻体是“镜子”，“天空的色彩”和“内心世界”是这两个概念的共同点。\n\n因此，这段中文句子的本体是“大海”，喻体是“镜子”，“天空的色彩”和“内心世界”是这两个概念的共同点。"
+    },
+    {
+        "metaphor_id": 272,
+        "answer": "\n这段中文句子中的本体是“水”，喻体是“河流”，喻体是“水”，喻体是“河水”，喻体是“滋养着生命”，喻体是“也象征着汉字的流动性和变化性”。\n\n共性是本体和喻体都和水有关，都象征着流动性和变化性。"
+    },
+    {
+        "metaphor_id": 273,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 274,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 275,
+        "answer": "\n这段中文句子中，“友谊就像风筝的线”中的“线”是喻体，用来比喻友谊的纽带。而“虽然看不见，但始终连接着彼此”中的“连接”则是本体，用来比喻友谊的紧密相连。\n\n因此，这段中文句子中的本体是友谊，喻体是风筝的线，而共同点是友谊的紧密相连。"
+    },
+    {
+        "metaphor_id": 276,
+        "answer": "\n本体：知识\n喻体：珍珠\n共性：宝贵且蕴含深意的宝物\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 277,
+        "answer": "\n这段中文句子中的本体是“企鹅”，喻体是“小黑点”，共同点是“活跃元素”和“动态”。"
+    },
+    {
+        "metaphor_id": 278,
+        "answer": "\n这段中文句子中的本体是“陶罐上的裂纹”，喻体是“老人脸上的皱纹”，它们共同记录了岁月的沧桑和变迁。\n\n\n\n这段中文句子中的本体是“陶罐”，喻体是“老人”，它们共同描述了陶罐的质地和外观，以及老人的外貌和特征。\n\n\n\n这段中文句子中的本体是“岁月”，喻体是“沧桑和变迁”，它们共同描述了岁月流逝的过程和结果，以及其中的变化和影响。\n\n\n\n这段中文句子中的本体是“陶罐”，喻体是“老人”，它们共同描述了陶罐的质地和外观，以及老人的外貌和特征。\n\n\n\n这段中文句子中的本体是“岁月”，喻体是“沧桑和变迁”，它们共同描述了岁月流逝的过程和结果，以及其中的变化和影响。\n\n\n\n这段中文句子中的本体是“裂纹”，喻体是“皱纹”，它们共同记录了陶罐上的瑕疵和缺陷，以及其中的变化和影响。\n\n\n\n这段中文句子中的本体是“记录”，喻体是“沧桑和变迁”，它们共同描述了记录的过程和结果，"
+    },
+    {
+        "metaphor_id": 279,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 280,
+        "answer": "\n这段中文句子中的本体是“月亮”，喻体是“灯笼”，共同点是“照亮”。\n\n因此，答案为：A。"
+    },
+    {
+        "metaphor_id": 281,
+        "answer": "\n这段中文句子中的本体是“科学理性”，喻体是“一位铁面无私的法官”，喻体是“法官”，而“判断真理”是“判决”的比喻义，所以喻体是“真理”。\n\n因此，这段中文句子中的本体、喻体以及共性是“科学理性”、“一位铁面无私的法官”和“判断真理”。"
+    },
+    {
+        "metaphor_id": 282,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“温暖”，共性是“融化”。"
+    },
+    {
+        "metaphor_id": 283,
+        "answer": "\n这段中文句子中的本体是“政治理念和目标”，喻体是“一盏明灯或指南针”。\n\n这段中文句子中的共性是“指明前进的方向”。\n\n因此，这段中文句子中的本体、喻体以及共性是：政治理念和目标，一盏明灯或指南针，指明前进的方向。"
+    },
+    {
+        "metaphor_id": 284,
+        "answer": "\n这段中文句子中的本体是“我”，喻体是“空气”，共性是“可有可无”。"
+    },
+    {
+        "metaphor_id": 285,
+        "answer": "\n这段中文句子中的本体是树叶，喻体是蝴蝶，共同点是飞舞。\n\n因此，答案为：A。"
+    },
+    {
+        "metaphor_id": 286,
+        "answer": "\nA:温暖;笑容;温暖一切\nB:暖阳;笑容;温暖一切\nC:笑容;暖阳;温暖一切\nD:笑容;温暖;温暖一切\n\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 287,
+        "answer": "\n这段中文句子中的本体是“宝藏”，喻体是“灯塔”，它们都具有“引导”的含义。\n\n中文句子：宝藏就像一座诱人的灯塔，吸引着无数勇敢的航海者前来探险。\n\n其中，“宝藏”是本体，“灯塔”是喻体，它们都具有“吸引”的含义。"
+    },
+    {
+        "metaphor_id": 288,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 289,
+        "answer": "\n这段中文句子中的本体是“他”，喻体是“兔子”，“兔子”在奔跑，“他”在奔跑，两者都奔跑，都迷茫，都无助，都受到“猎人”的追赶，因此两者具有共性。"
+    },
+    {
+        "metaphor_id": 290,
+        "answer": "\n这段中文句子中的本体是“珊瑚礁”，喻体是“精美的雕塑”，共同点是“诉说着古老的传说”。"
+    },
+    {
+        "metaphor_id": 291,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 292,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 293,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 294,
+        "answer": "\n本体: 火把; 喻体: 高粱; 共性: 映红了天际"
+    },
+    {
+        "metaphor_id": 295,
+        "answer": "\n这段中文句子中的本体是“胡子”，喻体是“板刷”，因为“他下巴上浓密的络腮胡子”和“活像一把用棕毛串成的板刷”都描述了“胡子”的形状和特征，以及“胡子”和“板刷”的相似之处。\n\n因此，这段中文句子中的本体、喻体以及共性是“胡子”和“板刷”。"
+    },
+    {
+        "metaphor_id": 296,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 297,
+        "answer": "\n这段中文句子中的本体是“树叶上的残滴”，喻体是“月儿”，共同点是“映着”。\n\n因此答案为：A:树干上的残滴,映着月儿;萤光千点;闪闪烁烁的动着。"
+    },
+    {
+        "metaphor_id": 298,
+        "answer": "\n这段中文句子中的本体是“痛苦”，喻体是“针”，而“虽然看不见伤口，但痛楚却如影随形”则是通过比喻来描述“痛苦”的，因此，本体、喻体以及共性都是“痛苦”。"
+    },
+    {
+        "metaphor_id": 299,
+        "answer": "\n这段中文句子中的本体是“笑声”，喻体是“清晨的鸟鸣”，共性是“清脆而悦耳”。\n\n因此答案为：A:谈话声;鸟鸣;净化心灵\n\n这段中文句子中的本体是“笑声”，喻体是“清晨的鸟鸣”，共性是“清脆而悦耳”。\n\n因此答案为：B:她的笑声;清晨的鸟鸣;清脆而悦耳\n\n这段中文句子中的本体是“笑声”，喻体是“清晨的鸟鸣”，共性是“清脆而悦耳”。"
+    },
+    {
+        "metaphor_id": 300,
+        "answer": "A:小蝌蚪;小姑娘的辫子;美丽\n\n这句话中的本体是“小蝌蚪”，喻体是“小姑娘的辫子”，共同点是“美丽”。"
+    },
+    {
+        "metaphor_id": 301,
+        "answer": "\n这段句子中的本体是“春天”，喻体是“诗篇”，“每一朵花”是“诗中的一行”，“婉约”是“美好”，“每一朵花”和“诗中的一行”都体现了春天美好的特点，“婉约”和“美好”也体现了春天和古诗之间的联系。因此，本体的共性是“春天”，喻体的共性是“诗篇”，喻体的共同特点是“美好”，本体的共同特点是“婉约”。"
+    },
+    {
+        "metaphor_id": 302,
+        "answer": "\n这段中文句子中的本体是“战略”，喻体是“指南针”，喻体的作用是比喻，指引我们穿越迷雾，找到正确的方向，因此，本体和喻体的共性是“指引我们穿越迷雾，找到正确的方向”。"
+    },
+    {
+        "metaphor_id": 303,
+        "answer": "\n本体：秋风\n喻体：剪刀\n共性：锋利\n\n因此答案为：C"
+    },
+    {
+        "metaphor_id": 304,
+        "answer": "\n这段中文句子中的本体是杨树，喻体是士兵，而共性是笔直整齐。"
+    },
+    {
+        "metaphor_id": 305,
+        "answer": "\n这段中文句子中的本体是“他的坚强”，喻体是“巨大的青铜门”，共性是“坚韧”。"
+    },
+    {
+        "metaphor_id": 306,
+        "answer": "\n这段中文句子中的本体是水稻，喻体是海洋，共同点是金色。\n\n因此，这个句子的本体是小麦，喻体是湖泊，共同点是绿色。\n\n这段中文句子中的本体是湖泊，喻体是海洋，共同点是蓝色。\n\n因此，这个句子的本体是小麦，喻体是海洋，共同点是绿色。"
+    },
+    {
+        "metaphor_id": 307,
+        "answer": "\n这段中文句子中的本体是“白云”，喻体是“草帽”，共同点是“白花花的”。"
+    },
+    {
+        "metaphor_id": 308,
+        "answer": "\n本体:这一朵朵菊花\n喻体:绣球\n共性:色彩鲜艳"
+    },
+    {
+        "metaphor_id": 309,
+        "answer": "\n这段中文句子中的本体是“可怜的眼光”，喻体是“六月里喝了雪水”。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 310,
+        "answer": "\n这段中文句子中的本体是莫高窟的石洞，喻体是“史书”，喻体是“诉说”，共同点是“过去辉煌与沧桑”。\n\n因此答案为：A、千年的史书;石洞;诉说着过去。"
+    },
+    {
+        "metaphor_id": 311,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 312,
+        "answer": "本体: 花瓣\n喻体: 繁星\n共性: 散发光辉\n\n因此答案为：B"
+    },
+    {
+        "metaphor_id": 313,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 314,
+        "answer": "\n这段中文句子中，“心”是喻体，“脆弱和敏感”是本体，“温室里的花朵”是共性的一个例子。\n\n因此，这段中文句子的本体是“心”，喻体是“脆弱和敏感”，共性的例子是“温室里的花朵”。"
+    },
+    {
+        "metaphor_id": 315,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 316,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 317,
+        "answer": "\n这段中文句子中的本体是“成功”，喻体是“金字塔”，它们共同点是都需要付出努力和汗水。\n\n因此，这段中文句子中的本体是“成功”，喻体是“金字塔”，它们共同点是都需要付出努力和汗水。"
+    },
+    {
+        "metaphor_id": 318,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 319,
+        "answer": "本体: 胸口\n喻体: 针扎\n共性: 痛\n\n因此答案为：C"
+    },
+    {
+        "metaphor_id": 320,
+        "answer": "A:飘落的雪花;心情;既轻盈又沉重\n\n该句中的本体是“心情”，喻体是“雪花”，喻体是“雪花”轻盈又沉重，而“心情”既轻盈又沉重，故选A。"
+    },
+    {
+        "metaphor_id": 321,
+        "answer": "\n这段中文句子中的本体是山，喻体是河流，喻体与本体共同具有的特征是直插云霄，象征着中国大地的壮丽与雄伟。"
+    },
+    {
+        "metaphor_id": 322,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“交响乐”，共同点是都需要双方共同演奏才能奏出和谐动人的旋律。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 323,
+        "answer": "\n这段中文句子中的本体是“家园”，喻体是“伞”，共同点是“一直搭在流浪者风雨兼程的肩膀上”。"
+    },
+    {
+        "metaphor_id": 324,
+        "answer": "\n这段中文句子中的本体是“孤独”，喻体是“灯塔”，喻体与“孤独”一样，都是用来比喻“指引方向”的。\n\n因此，这段中文句子中的共性是“指引方向”。"
+    },
+    {
+        "metaphor_id": 325,
+        "answer": "\n这段中文句子中，“石狮子”是本体，“阳光”是喻体，“银色的雕像”是喻体与本体的共性。\n\n因此，这段中文句子中的本体是“石狮子”，喻体是“阳光”，喻体与本体的共性是“银色的雕像”。"
+    },
+    {
+        "metaphor_id": 326,
+        "answer": "\n这段中文句子中，“月色”和“清冷”是喻体，“月光”是本体，“水”是喻体，“清冷”是本体。\n\n因此，这段中文句子中的本体是“月光”，喻体是“水”，共性是“清冷”。"
+    },
+    {
+        "metaphor_id": 327,
+        "answer": "\n这段中文句子中的本体是“火把”，喻体是“高粱”，它们都用来比喻事物，具有相似性。\n\n因此，这段中文句子中的本体、喻体以及共性是“火把”和“高粱”，以及它们都具有相似性。"
+    },
+    {
+        "metaphor_id": 328,
+        "answer": "\n这段中文句子中的本体是“祖宗的财产”，喻体是“子孙颈上的枷锁”，它们的共性是“负重”。\n\n因此答案为：A。"
+    },
+    {
+        "metaphor_id": 329,
+        "answer": "\n这段中文句子中的本体是“英雄”，喻体是“人类历史进步的阶梯”，共性是“历史进步的阶梯”。\n\n因此，这段中文句子的本体是“英雄”，喻体是“人类历史进步的阶梯”，共性是“历史进步的阶梯”。"
+    },
+    {
+        "metaphor_id": 330,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 331,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 332,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 333,
+        "answer": "\n这段中文句子中的本体是“心”，喻体是“湖面”，喻体是“寂静而冷漠”。\n\n这段中文句子中的本体是“冰封的湖面”，喻体是“心”，喻体是“寂静而冷漠”。\n\n这段中文句子中的本体是“水面”，喻体是“心”，喻体是“寂静而冷漠”。\n\n这段中文句子中的本体是“水面”，喻体是“寂静而冷漠”，喻体是“心”。\n\n这段中文句子中的本体是“心”，喻体是“寂静而冷漠”，喻体是“湖面”。\n\n这段中文句子中的本体是“心”，喻体是“寂静而冷漠”，喻体是“湖面”。\n\n这段中文句子中的本体是“心”，喻体是“湖面”，喻体是“寂静而冷漠”。\n\n这段中文句子中的本体是“心”，喻体是“湖面”，喻体是“寂静而冷漠”。\n\n这段中文句子中的本体是“心”，喻体是“湖面”，喻体是“寂静而冷漠”。\n\n"
+    },
+    {
+        "metaphor_id": 334,
+        "answer": "\n这段中文句子中的本体是“头”，喻体是“炼胶的大锅”，共同点是“黑糊糊的，油亮亮的”。"
+    },
+    {
+        "metaphor_id": 335,
+        "answer": "\n这段中文句子中的本体是“打呼噜”，喻体是“风筝”，共性是“绵长”。"
+    },
+    {
+        "metaphor_id": 336,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 337,
+        "answer": "\n因此答案为：A\n\n这段中文句子中的本体是“人生”，喻体是“一本厚重的书”，而“一本厚重的书”则是一个比喻，用来形容“人生”的丰富和复杂。这种比喻在中文中很常见，用来形容人生的经历和意义。\n\n同时，这段中文句子中也提到了“每个人都是自己生命故事的创造者”，这句话强调了人生的独特性和个体性，每个人的人生都是独特的，都是自己的故事。\n\n因此，这段中文句子中的本体、喻体以及共性都是“人生”，而“一本厚重的书”则是用来比喻人生的经历和意义，强调人生的丰富和复杂，以及人生的独特性和个体性。"
+    },
+    {
+        "metaphor_id": 338,
+        "answer": "\n这段中文句子中的本体是“蛇”，喻体是“眼镜蛇”，共性是“快速前行”。"
+    },
+    {
+        "metaphor_id": 339,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 340,
+        "answer": "\n这段中文句子中的本体是“童心”，喻体是“一只羽翼不丰的雏鹰”，共同点是“在老鹰的呵护下”。"
+    },
+    {
+        "metaphor_id": 341,
+        "answer": "\n这段中文句子中的本体是“权力”，喻体是“洪水”，共性是“蔓延并席卷一切”。"
+    },
+    {
+        "metaphor_id": 342,
+        "answer": "\n这段中文句子中的本体是“他”，喻体是“春天的阳光”，“温暖而明媚”是“春天”带给他的感受。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 343,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 344,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 345,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 346,
+        "answer": "\n这段中文句子中的本体是“信风”，喻体是“狼群”，共性是“呼啸盘旋”。"
+    },
+    {
+        "metaphor_id": 347,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“烟花”。\n\n“短暂而绚烂”是这段中文句子中的共性。"
+    },
+    {
+        "metaphor_id": 348,
+        "answer": "\n这段中文句子中的本体是“风筝”，喻体是“在天空中翱翔的风筝”，喻体是“无忧无虑的童年”，喻体是“少年”。\n这段中文句子中的共性是“无忧无虑”，它贯穿了本体和喻体，表达了无忧无虑的童年和无忧无虑的少年。"
+    },
+    {
+        "metaphor_id": 349,
+        "answer": "\n因此答案为：A、宫殿;品德;伟大\nB、塑造品德;建筑师构建大厦;精心设计认真建造\nC、殿堂;建筑师构建大厦;精心设计认真建造\nD、塑造品德;大厦;精心设计认真建造"
+    },
+    {
+        "metaphor_id": 350,
+        "answer": "\n因此答案为：C"
+    },
+    {
+        "metaphor_id": 351,
+        "answer": "\n这段中文句子中的本体是“河马”，喻体是“海马”，共性是“沉稳的守护”。"
+    },
+    {
+        "metaphor_id": 352,
+        "answer": "\n这段中文句子中的本体是腊梅，喻体是仙女，共性是身穿黄衣。"
+    },
+    {
+        "metaphor_id": 353,
+        "answer": "\n这段中文句子中的本体是“天空”，喻体是“一块巨大的宝石”，喻体是“偶尔几朵白云飘过”，喻体是“仿佛是镶嵌在宝石上的轻盈羽毛”。\n\n这段中文句子中的共性是“湛蓝如洗”和“偶尔几朵白云飘过”，它们都是形容天空的颜色和景象。"
+    },
+    {
+        "metaphor_id": 354,
+        "answer": "\n这段中文句子中的本体是“智慧”，喻体是“宝藏”，而“珍贵”是两者的共性。"
+    },
+    {
+        "metaphor_id": 355,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 356,
+        "answer": "\n这段中文句子中的本体是回忆，喻体是走廊，共同点是绵长。\n\n因此，这段中文句子的本体是A, 喻体是B, 共性是C。"
+    },
+    {
+        "metaphor_id": 357,
+        "answer": "\n这段中文句子中的本体是“温柔”，喻体是“夏日的微风”，共性是“感到温暖”。"
+    },
+    {
+        "metaphor_id": 358,
+        "answer": "\n这段中文句子中的本体是“纳尔齐斯的思想”，喻体是“一把锋利的剑”，共性是“能够穿透表面的虚伪，直达事物的本质”。"
+    },
+    {
+        "metaphor_id": 359,
+        "answer": "\n这段中文句子中的本体是“恐怖的黑影”，喻体是“蝗虫”，共性是“让人感到恐惧和不安”。\n\n因此，这段中文句子的本体是“恐怖的黑影”，喻体是“蝗虫”，共性是“让人感到恐惧和不安”。"
+    },
+    {
+        "metaphor_id": 360,
+        "answer": "\n这段中文句子中的本体是“他的眼神”，喻体是“一把利剑”，共性是“揭穿谎言”。"
+    },
+    {
+        "metaphor_id": 361,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 362,
+        "answer": "\n这段中文句子中的本体是“修行”，喻体是“田地”，共同点是都需要付出努力和耐心才能有所收获。\n\n因此，这段中文句子中的本体是“修行”，喻体是“田地”，共同点是都需要付出努力和耐心才能有所收获。"
+    },
+    {
+        "metaphor_id": 363,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 364,
+        "answer": "\n这段中文句子中的本体是竹林，喻体是花海，共同点是悦耳动听。"
+    },
+    {
+        "metaphor_id": 365,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 366,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 367,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“狂风暴雨”。\n\n共性是：爱情和狂风暴雨都是无法抗拒的，无法预测的。"
+    },
+    {
+        "metaphor_id": 368,
+        "answer": "\n这段中文句子中的本体是眼睛，喻体是眉毛下，喻体是火，喻体是荆棘丛。\n\n这段中文句子中的共性是眼睛在眉毛下炯炯发光，正象荆棘丛中的一堆火。"
+    },
+    {
+        "metaphor_id": 369,
+        "answer": "\n这段中文句子中的本体是叶子，喻体是花蝴蝶，共同点是落在地上。"
+    },
+    {
+        "metaphor_id": 370,
+        "answer": "A:心情;落叶;纷纷扬扬地飘落\nB:情绪;落叶;纷纷扬扬地飘落\nC:本体;落叶;纷纷扬扬地飘落\nD:本体;情绪;纷纷扬扬地飘落\n\n因此答案为：A、B、C"
+    },
+    {
+        "metaphor_id": 371,
+        "answer": "A:感叹;生活;热爱、感慨\n\n根据句意，“感叹”是本体的情感流露，“生活”是喻体，“热爱”和“感慨”是本体的情感，“生活”是喻体，因此本体的共性是“热爱”和“感慨”，喻体的共性是“生活”。"
+    },
+    {
+        "metaphor_id": 372,
+        "answer": "\n这段中文句子中，“火龙果”是本体，“燃烧的火”是喻体。本体和喻体的共同点是它们都是突起的、火焰状的物体。\n\n因此，这段中文句子的本体是火龙果，喻体是燃烧的火，而共性是它们都是突起的、火焰状的物体。"
+    },
+    {
+        "metaphor_id": 373,
+        "answer": "\n这段中文句子中的本体是“未受阳光照射的基岩”，喻体是“素描画”，共同点是它们都是黑暗中的事物，给人以深邃神秘的感觉。"
+    },
+    {
+        "metaphor_id": 374,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 375,
+        "answer": "\n这段中文句子中的本体是“平静的湖面”，喻体是“一面硕大的银镜”，喻体是“一面硕大的银镜”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“河水”，喻体是“镜面”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“银镜”，喻体是“湖面”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“镜子”，喻体是“银镜”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“镜子”，喻体是“银镜”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“银镜”，喻体是“镜子”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“镜子”，喻体是“银镜”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“镜子”，喻体是“银镜”，喻体是“美丽而又平静”。\n这段中文句子中的本体是“镜子”，喻体是“银"
+    },
+    {
+        "metaphor_id": 376,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 377,
+        "answer": "\n本体：中秋\n喻体：明月\n共性：悬挂\n\n因此答案为：D"
+    },
+    {
+        "metaphor_id": 378,
+        "answer": "\n这段中文句子中的本体是“月夜”，喻体是“田野”，它们共同的特点是“安静”。\n\n因此，这段中文句子中的本体、喻体以及共性是“月夜”，“安静”。"
+    },
+    {
+        "metaphor_id": 379,
+        "answer": "A:雪花;白头巾;大地上\n\n这段中文句子中的本体是“雪花”，喻体是“白头巾”，“大地上”是两者的共性。"
+    },
+    {
+        "metaphor_id": 380,
+        "answer": "\n这段中文句子中的本体是“书”，喻体是“钥匙”，而“知识”是“智慧”的同义词，因此“知识”是句子的共性。"
+    },
+    {
+        "metaphor_id": 381,
+        "answer": "\n这段中文句子中的本体是智慧，喻体是璀璨的星辰，它们共同点是照亮我们的思想夜空，让我们在迷茫中找到方向，坚定前行。"
+    },
+    {
+        "metaphor_id": 382,
+        "answer": "\n这段中文句子中的本体是“方向”，喻体是“黑暗”，喻体是“迷惘”，它们都是指代不明确，容易混淆，需要仔细辨别。\n\n这段中文句子中的本体是“黑暗与迷惘”，喻体是“指南针”，喻体是“指明方向”，它们都是指代明确，容易理解，不需要辨别。\n\n这段中文句子中的本体是“迷惘”，喻体是“黑暗”，喻体是“指明方向”，它们都是指代明确，容易理解，不需要辨别。\n\n这段中文句子中的本体是“黑暗与迷惘”，喻体是“指明方向”，它们都是指代明确，容易理解，不需要辨别。\n\n这段中文句子中的本体是“黑暗”，喻体是“迷惘”，喻体是“指明方向”，它们都是指代明确，容易理解，不需要辨别。\n\n这段中文句子中的本体是“迷惘”，喻体是“黑暗”，喻体是“指明方向”，它们都是指代明确，容易理解，不需要辨别。\n\n这段中文句子中的本体是“黑暗”，喻体是“迷惘”"
+    },
+    {
+        "metaphor_id": 383,
+        "answer": "\n这段中文句子中的本体是日子，喻体是沙漏，喻体是时光，喻体是沙子。\n\n这段中文句子中的共性是提醒我们珍惜眼前的时光，珍惜当下的每一刻。\n\n因此，这段中文句子中的本体是日子，喻体是沙漏，喻体是时光，喻体是沙子，共性是提醒我们珍惜眼前的时光，珍惜当下的每一刻。"
+    },
+    {
+        "metaphor_id": 384,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 385,
+        "answer": "\n本体：澳大利亚的草原\n喻体：坏了的表壳里\n共性：静谧无声"
+    },
+    {
+        "metaphor_id": 386,
+        "answer": "\n这段中文句子中的本体是“垂柳”，喻体是“少女”，共性是“低头羞涩”。"
+    },
+    {
+        "metaphor_id": 387,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 388,
+        "answer": "\n这段中文句子中的本体是“心”，喻体是“瓷器”。\n\n“瓷器”这个比喻形象地描述了“心”这个抽象概念，因为“心”像瓷器一样，一旦受损就无法恢复。\n\n因此，这段中文句子中的共性是“心”像价值不菲的瓷器，磕碰不得，稍有闪失，便万劫不复。"
+    },
+    {
+        "metaphor_id": 389,
+        "answer": "本体: 不同民族的心理特征\n喻体: 自然界中花朵\n共性: 每种色彩都代表着一种独特的心理特质和文化底蕴"
+    },
+    {
+        "metaphor_id": 390,
+        "answer": "本体:苍蝇\n喻体:地毯\n共性:密密麻麻"
+    },
+    {
+        "metaphor_id": 391,
+        "answer": "本体:记忆\n喻体:狐狸\n共性:狡猾,总是在你最不经意的时候跳出来。"
+    },
+    {
+        "metaphor_id": 392,
+        "answer": "\n这段中文句子中的本体是“老头越走越慢”，喻体是“颤颤惊惊”，共同点是“害怕”。"
+    },
+    {
+        "metaphor_id": 393,
+        "answer": "\n这段中文句子中的本体是“松树”，喻体是“巨人”，共性是“高大”。"
+    },
+    {
+        "metaphor_id": 394,
+        "answer": "\n这段中文句子中的本体是“雨滴”，喻体是“伞兵”，共性是“安全降落”。"
+    },
+    {
+        "metaphor_id": 395,
+        "answer": "\n这段中文句子中的本体是“五月阳光照射的他自己”，喻体是“宅居动物”，共同点是“肮脏憔悴”。"
+    },
+    {
+        "metaphor_id": 396,
+        "answer": "\n这段中文句子中的本体是“竹子”，喻体是“士兵”，共性是“笔直挺拔”。\n\n因此，这段中文句子的本体是“竹子”，喻体是“士兵”，共性是“笔直挺拔”。"
+    },
+    {
+        "metaphor_id": 397,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 398,
+        "answer": "\n记忆如同老照片，虽然时间已经泛黄，但那些珍贵的瞬间却永远定格在心间。\nA:回忆;照片;定格\nB:时间;珍贵的瞬间;记忆\nC:记忆;老照片;时间的见证者，能够保存和反映过去的片段\nD:珍贵的瞬间;记忆;定格在心间\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 399,
+        "answer": "\n这段中文句子中的本体是“国家与市场”，喻体是“舞者与其舞伴”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”，喻体是“全球经济的舞蹈”"
+    },
+    {
+        "metaphor_id": 400,
+        "answer": "\n这段中文句子中的本体是“蛋壳”，喻体是“月球表面环形山”，共同点是“在阳光下才能看到的细小钙粒”。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 401,
+        "answer": "\n这段中文句子中的本体是“白雪皑皑的山”，喻体是“洁白的画布”，共同点是“洁白无瑕”。"
+    },
+    {
+        "metaphor_id": 402,
+        "answer": "\n这段中文句子中的本体是“学校”，喻体是“森林”，共同点是“孕育着无数渴望知识的树苗”。"
+    },
+    {
+        "metaphor_id": 403,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 404,
+        "answer": "\n这段中文句子中的本体是“森林”，喻体是“一座绿色的宝库”，喻体是“森林”，本体是“生机和秘密”。\n\n这段中文句子中的本体和喻体都强调了森林的生机和秘密，以及这座绿色宝库的丰富和神秘。"
+    },
+    {
+        "metaphor_id": 405,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 406,
+        "answer": "\n本体：深邃的海底\n喻体：黑夜\n共性：寂静无言\n\n因此答案为：B"
+    },
+    {
+        "metaphor_id": 407,
+        "answer": "本体: 民族心理学的研究方法\n喻体: 一个工具箱\n共性: 多种多样"
+    },
+    {
+        "metaphor_id": 408,
+        "answer": "\n这段中文句子中的本体是“他对人类的爱”，喻体是“大地母亲对种子的呵护”，共性是“无声无息，却深厚无比”。"
+    },
+    {
+        "metaphor_id": 409,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 410,
+        "answer": "\n这段中文句子中的本体是上帝的存在，喻体是光，通过光亮来感知。\n\n共性是：上帝的存在和光都可以通过其照亮的世界来感知和理解。"
+    },
+    {
+        "metaphor_id": 411,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 412,
+        "answer": "\n这段中文句子中，“向日葵”是本体，“盘子”是喻体。\n\n本体和喻体的共同点是：都是用来比喻或形容事物的。\n\n因此，这段中文句子的本体是“向日葵”，喻体是“盘子”。"
+    },
+    {
+        "metaphor_id": 413,
+        "answer": "\n这段中文句子中的本体是雪地上的脚印，喻体是时间的印记，共同点是记录着行者的每一步。"
+    },
+    {
+        "metaphor_id": 414,
+        "answer": "\n这段中文句子中，“日子”是喻体，“诗”是本体，“诗意与美好”是喻体与本体的共性。\n\n因此，这段中文句子的本体是“日子”，喻体是“诗”，喻体与本体的共性是“充满了诗意与美好”。"
+    },
+    {
+        "metaphor_id": 415,
+        "answer": "A:希望;壁虎的尾巴;生生不息\nB:希望;尾巴;会再长出来\nC:尾巴;希望;源源不断\nD:希望;切断;源源不断\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 416,
+        "answer": "\n这段中文句子中的本体是“空穴”，喻体是“蚯蚓”，喻体“无孔不入”贯穿整个句子，而“冰冷的空气”是“心脾”的喻指。\n\n因此，这段中文句子中的本体、喻体以及共性是“空穴”、“蚯蚓”、“无孔不入”和“心脾”。"
+    },
+    {
+        "metaphor_id": 417,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 418,
+        "answer": "\n这段中文句子中，“人格”是喻体，“建筑”是本体，“稳固和美观”是喻体与本体之间的共性。"
+    },
+    {
+        "metaphor_id": 419,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 420,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 421,
+        "answer": "\n这段中文句子中的本体是“晨雾”，喻体是“纱巾”，而共性是“轻柔”。\n\n因此，这个句子的本体是“晨雾”，喻体是“纱巾”，而共性是“轻柔”。"
+    },
+    {
+        "metaphor_id": 422,
+        "answer": "\n这段中文句子中的本体是“人生”，喻体是“马拉松”，喻体是“长距离的旅程”，喻体是“持续奋斗和毅力”，喻体是“终点”。\n\n这段中文句子中的共性是“不在乎起点的高低，而在于途中的坚持与努力，以及终点的收获与成长”。\n\n因此，这段中文句子中的本体是“人生”，喻体是“马拉松”，喻体是“长距离的旅程”，喻体是“持续奋斗和毅力”，喻体是“终点”，共性是“不在乎起点的高低，而在于途中的坚持与努力，以及终点的收获与成长”。"
+    },
+    {
+        "metaphor_id": 423,
+        "answer": "\n这段中文句子中的本体是“世界”，喻体是“宝藏岛”，共同点是“神秘”。"
+    },
+    {
+        "metaphor_id": 424,
+        "answer": "\n这段中文句子中的本体是“亲情”，喻体是“温暖”，共同点是“提供安慰、指引和力量的源泉”。"
+    },
+    {
+        "metaphor_id": 425,
+        "answer": "\n这段中文句子中的本体是“老人”，喻体是“饭里的砂砾”，“忠厚老实人的恶毒”是“刺”的比喻义。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 426,
+        "answer": "\n这段中文句子中的本体是焰火，喻体是梦想，共同点是照亮人们前行的道。"
+    },
+    {
+        "metaphor_id": 427,
+        "answer": "\n这段中文句子中的本体是时间，喻体是剪刀，而共性是剪断一切。"
+    },
+    {
+        "metaphor_id": 428,
+        "answer": "\n这段中文句子中的本体是“外婆的皱纹”，喻体是“岁月的痕迹”，共同点是它们都描述了外婆的皱纹，记录了生活的艰辛和不易。"
+    },
+    {
+        "metaphor_id": 429,
+        "answer": "\n这段中文句子中的本体是智慧，喻体是钻石，需要经过无数次的打磨和雕琢来显现其内在的价值。\n\n因此，这段中文句子中的本体是智慧，喻体是钻石，需要经过无数次的打磨和雕琢来显现其内在的价值。"
+    },
+    {
+        "metaphor_id": 430,
+        "answer": "\n这段中文句子中的本体是“手指”，喻体是“小提琴琴弦”，共性是“优雅”。\n\n这段中文句子中的本体是“手掌”，喻体是“小提琴琴弦”，共性是“优雅”。\n\n这段中文句子中的本体是“大提琴琴弦”，喻体是“小提琴琴弦”，共性是“优雅”。\n\n这段中文句子中的本体是“生命”，喻体是“小提琴琴弦”，共性是“旋律”。\n\n这段中文句子中的本体是“生命”，喻体是“大提琴琴弦”，共性是“旋律”。\n\n这段中文句子中的本体是“生命”，喻体是“珍贵”，共性是“优雅”。\n\n这段中文句子中的本体是“生命”，喻体是“小提琴琴弦”，共性是“旋律”。\n\n这段中文句子中的本体是“生命”，喻体是“优雅”，共性是“旋律”。\n\n这段中文句子中的本体是“小提琴琴弦”，喻体是“优雅”，共性是“旋律”。\n\n这段中文句子中的本体是“小提琴琴弦”，"
+    },
+    {
+        "metaphor_id": 431,
+        "answer": "\n这段中文句子中的本体是“笑容”，喻体是“闲云野鹤”，共同点是“宁静与安详”。"
+    },
+    {
+        "metaphor_id": 432,
+        "answer": "\n这段中文句子中的本体是友情，喻体是一杯热茶，共同点是带来了无尽的温暖。"
+    },
+    {
+        "metaphor_id": 433,
+        "answer": "\n这段中文句子中的本体是“石头”，喻体是“坚固的”，而“无论风吹雨打，都屹立不倒”则是“石头”的共性。"
+    },
+    {
+        "metaphor_id": 434,
+        "answer": "\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 435,
+        "answer": "\n这段中文句子中，“秋日的天空”是本体，“宁静”是喻体，“一幅泼墨山水画”是喻体与本体的共性。\n\n因此，这段中文句子的本体是“秋日的天空”，喻体是“宁静”，喻体与本体的共性是“一幅泼墨山水画”。"
+    },
+    {
+        "metaphor_id": 436,
+        "answer": "\n这段中文句子中的本体是“友情”，喻体是“雪花”，“不受尘世污染”是“友情”的共同点。"
+    },
+    {
+        "metaphor_id": 437,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 438,
+        "answer": "\n这段中文句子中的本体是“她”，喻体是“抄手”，共同点是“像一根折断的花枝飘落在自己床上”。"
+    },
+    {
+        "metaphor_id": 439,
+        "answer": "\n这段中文句子中的本体是“人类的社会”，喻体是“一个大厨房”，喻体是“忙碌与努力”。\n\n这段中文句子中的共性是“忙碌与努力”，无论是人类还是大厨房，都在努力地工作。\n\n因此，这段中文句子中的本体、喻体以及共性是“人类的社会”，“一个大厨房”，“忙碌与努力”。"
+    },
+    {
+        "metaphor_id": 440,
+        "answer": "\n这段中文句子中的本体是“生活”，喻体是“书”，而“每一天都是一个新的篇章”则是这个句子的共同特征。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 441,
+        "answer": "\n本体：月光\n喻体：千山万壑\n共性：都浸在月光里。"
+    },
+    {
+        "metaphor_id": 442,
+        "answer": "\n这段中文句子中的本体是“被冰封的湖面”，喻体是“心”，共性是“外表平静但内心深处却隐藏着无尽的秘密”。"
+    },
+    {
+        "metaphor_id": 443,
+        "answer": "\n这段中文句子中的本体是“小河”，喻体是“彩带”，共性是“向远方飘去”。\n\n因此答案为：A:小河;彩虹;弯弯的\n\n这段中文句子中的本体是“小河”，喻体是“彩带”，共性是“向远方飘去”。因此答案为：A:小河;彩虹;弯弯的"
+    },
+    {
+        "metaphor_id": 444,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 445,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 446,
+        "answer": "\n这段中文句子中的本体是“生命”，喻体是“影子”，“残酷”和“美丽”是“绚烂”的修饰语，“绚烂”是“残酷”和“美丽”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语，“分量”是“意义”的修饰语，“意义”是“分量”的修饰语"
+    },
+    {
+        "metaphor_id": 447,
+        "answer": "A:飘忽的云朵;心情;时而明亮，时而暗淡\n\nB:他的心情;飘忽的云朵;变化无常和不可预测\n\nC:云彩;心情;时而明亮，时而暗淡\n\nD:时而明亮，时而暗淡;心情;飘忽的云朵"
+    },
+    {
+        "metaphor_id": 448,
+        "answer": "\n这段中文句子中的本体是“水甲虫”，喻体是“胸翼”，共同点是“闪闪发光”。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 449,
+        "answer": "\n这段中文句子中的本体是“生活”，喻体是“海洋”，共性是“前行需要保持勇气”。\n\n中文句子：生活就像海洋，只有意志坚强的人，才能到达彼岸。\n\n这句话的本体是“生活”，喻体是“海洋”，喻体是“意志坚强”，喻体是“人”，喻体是“彼岸”，喻体是“意志”，喻体是“人”，喻体是“彼岸”，喻体是“坚强”，喻体是“意志”，喻体是“人”，喻体是“彼岸”，喻体是“坚强”，喻体是“意志”，喻体是“人”，喻体是“彼岸”，喻体是“坚强”，喻体是“意志”，喻体是“人”，喻体是“彼岸”，喻体是“坚强”，喻体是“意志”，喻体是“人”，喻体是“彼岸”，喻体是“坚强”，喻体是“意志”，喻体是“人”，喻体是“彼岸”，喻体是“坚强”，喻体是“"
+    },
+    {
+        "metaphor_id": 450,
+        "answer": "\n这段中文句子中的本体是“他们”，喻体是“鞭炮”，“声音宏大”是这两个概念的共同点。"
+    },
+    {
+        "metaphor_id": 451,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 452,
+        "answer": "\n这段中文句子中的本体是“阳光”，喻体是“金色的绸缎”，共同点是给大地披上了一层温暖的华服。"
+    },
+    {
+        "metaphor_id": 453,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 454,
+        "answer": "\n这段中文句子中的本体是春霞，喻体是山麓，句子的共同点是都使用了“晕染开来”这个比喻来描述山麓被春霞所染成一片一片的景象。"
+    },
+    {
+        "metaphor_id": 455,
+        "answer": "\n这段中文句子中的本体是“两军相接”，喻体是“山崩海啸”，喻体是“天昏地暗”，喻体是“场面的激烈和震撼”。\n\n这段中文句子中的共性是“两军相接”，“风雨欲来”，“场面的激烈和震撼”。\n\n因此，这段中文句子中的本体是“两军相接”，喻体是“山崩海啸”，喻体是“天昏地暗”，喻体是“场面的激烈和震撼”。\n\n共性是“两军相接”，“风雨欲来”，“场面的激烈和震撼”。"
+    },
+    {
+        "metaphor_id": 456,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 457,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 458,
+        "answer": "\n这段中文句子中的本体是“小草”，喻体是“精灵”，共同点是“生命的活力和美好”。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 459,
+        "answer": "\n这段中文句子中的本体是“西瓜”，喻体是“胖娃娃”，共性是“圆圆的”。\n\n因此，这段中文句子中的本体、喻体以及共性是“西瓜”、“胖娃娃”和“圆圆的”。"
+    },
+    {
+        "metaphor_id": 460,
+        "answer": "\n这段中文句子中的本体是社会的偏见和歧视，喻体是难以逾越的障碍，而共性是它们给个人带来沉重的压力，同时也激发了人们不屈不挠的斗志和攀登的勇气。"
+    },
+    {
+        "metaphor_id": 461,
+        "answer": "\n这段中文句子中的本体是“小青蛙”，喻体是“清洁工”，共性是“勤劳”。\n\n因此，这段中文句子的本体是“小青蛙”，喻体是“清洁工”，共性是“勤劳”。"
+    },
+    {
+        "metaphor_id": 462,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 463,
+        "answer": "\n这段中文句子中的本体是茂密的竹林，喻体是汪洋的竹海，共同点是悦耳好听。"
+    },
+    {
+        "metaphor_id": 464,
+        "answer": "\n这段中文句子中的本体是“天空”，喻体是“竹林”，喻体是“海浪”，喻体是“悦耳动听”，喻体是“红红的柿子”，喻体是“灯笼”，本体和喻体的共性是“干净”。"
+    },
+    {
+        "metaphor_id": 465,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“瘟疫”。\n\n共性是，它们都描述了某种有害的现象，让人无法摆脱。"
+    },
+    {
+        "metaphor_id": 466,
+        "answer": "\n这段中文句子中的本体是“桑干河的水流”，喻体是“一幅画卷”，共同点是“展现着大自然的美丽”。"
+    },
+    {
+        "metaphor_id": 467,
+        "answer": "本体:生活\n喻体:长篇小说\n共性:未知"
+    },
+    {
+        "metaphor_id": 468,
+        "answer": "\n这段中文句子中的本体是“青蛙”，喻体是“小精灵”，它们共同的特点是“能够挺身而出，给予我们帮助和支持”。"
+    },
+    {
+        "metaphor_id": 469,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 470,
+        "answer": "\n这段中文句子中的本体是“路灯”，喻体是“士兵”，喻体是“士兵”，喻体是“指路明灯”，喻体是“默默守护”，喻体是“指引道路”。\n\n因此，这段中文句子中的共性是“守护着”，即本体和喻体都守护着对方的存在。"
+    },
+    {
+        "metaphor_id": 471,
+        "answer": "本体:比喻句\n喻体:钥匙\n共性:开启和连接的功能"
+    },
+    {
+        "metaphor_id": 472,
+        "answer": "\n这段中文句子中的本体是荷花，喻体是污泥中的花朵，共同点是都是指“生命”。\n\n因此，这段中文句子的本体是荷花，喻体是污泥中的花朵，共同点是都是指“生命”。"
+    },
+    {
+        "metaphor_id": 473,
+        "answer": "\n这段中文句子中的本体是“他的身体”，喻体是“被病魔蚕食的树叶”，共性是“无助和脆弱”。"
+    },
+    {
+        "metaphor_id": 474,
+        "answer": "\n这段句子中的本体是柳条，喻体是发丝，共同点是散发着淡淡的清香。"
+    },
+    {
+        "metaphor_id": 475,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 476,
+        "answer": "\n这段中文句子中的本体是“爱情”，喻体是“水手”，共同点是“脆弱”。\n\n其中，“爱情”是本体，因为它描述了“脆弱”这一性质，而“水手”则是喻体，因为它与“脆弱”这一性质有相似之处，即“脆弱”。\n\n“脆弱”是共同特点，因为无论是“爱情”还是“水手”，它们都容易受到外界因素的影响而变得脆弱。\n\n因此，这段中文句子中的本体是“爱情”，喻体是“水手”，共同点是“脆弱”，而“脆弱”是这段中文句子中的共性。"
+    },
+    {
+        "metaphor_id": 477,
+        "answer": "\n这段中文句子中的本体是“生活”，喻体是“迷宫”，共同点是“深陷其中”。"
+    },
+    {
+        "metaphor_id": 478,
+        "answer": "\n这段中文句子中的本体是“脸色”，喻体是“大雷雨前的天色”，共性是“阴郁低沉”。"
+    },
+    {
+        "metaphor_id": 479,
+        "answer": "\n本体: 黄澄澄的柿子\n喻体: 灯笼\n共性: 又圆又亮\n\n因此答案为：C"
+    },
+    {
+        "metaphor_id": 480,
+        "answer": "\n这段中文句子中的本体是夜晚的星空，喻体是神秘的画卷，而共同点是让人不禁沉醉其中。"
+    },
+    {
+        "metaphor_id": 481,
+        "answer": "\n这段中文句子中的本体是“革命”，喻体是“播种”，“播种”是“革命”的比喻义，“收获胜利”是“革命”的结果。\n\n这段中文句子中的本体是“革命”，喻体是“播撒”，“播撒”是“革命”的比喻义，“收获胜利”是“革命”的结果。\n\n这段中文句子中的本体是“革命”，喻体是“收获胜利”，“收获胜利”是“革命”的结果。\n\n这段中文句子中的本体是“革命”，喻体是“种下希望”，“种下希望”是“革命”的比喻义，“收获成功”是“革命”的结果。\n\n因此，这段中文句子中的本体是“革命”，喻体是“播种”，“播种”是“革命”的比喻义，“收获胜利”是“革命”的结果，“收获胜利”是“革命”的结果，“收获成功”是“革命”的结果。\n\n这段中文句子中的本体是“革命”，喻体是“播种”，“播种”是“革命”的比喻义，“收获胜利”是“革命”的结果，“"
+    },
+    {
+        "metaphor_id": 482,
+        "answer": "\n这段中文句子中的本体是“他的心”，喻体是“一颗被时间遗忘的石头”，共同点是都含有“无法言说的痛楚和孤独”。"
+    },
+    {
+        "metaphor_id": 483,
+        "answer": "\n这段中文句子中的本体是声响,喻体是生活,共同点是它们都给人带来美好和丰富。"
+    },
+    {
+        "metaphor_id": 484,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 485,
+        "answer": "\n这段中文句子中的本体是月光，喻体是夜曲，共同点是优美。"
+    },
+    {
+        "metaphor_id": 486,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 487,
+        "answer": "\n因此答案为：A\n\n这段中文句子中，“同学们”是本体，“花朵”是喻体，“朝气蓬勃”是共性。"
+    },
+    {
+        "metaphor_id": 488,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 489,
+        "answer": "\n这段中文句子中的本体是“山中的绿色植物”，喻体是“熊熊燃烧的火焰”，它们之间的共性是“强烈的生命力”。"
+    },
+    {
+        "metaphor_id": 490,
+        "answer": "\n这段中文句子中, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是火, 喻体是"
+    },
+    {
+        "metaphor_id": 491,
+        "answer": "\n这段中文句子中的本体是雪，喻体是精灵，共同点是洁白无瑕、轻盈优雅。"
+    },
+    {
+        "metaphor_id": 492,
+        "answer": "\n这段中文句子中的本体是“瀑布”，喻体是“大河”，共性是“奔流而下”。"
+    },
+    {
+        "metaphor_id": 493,
+        "answer": "\n这段中文句子中的本体是“心”，喻体是“风铃”，“叮咛”是“风铃”发出的声音，“相思”是“心”对远方的思念。\n这段中文句子中的本体是“心”，喻体是“风铃”，“叮咛”是“风铃”发出的声音，“相思”是“心”对远方的思念。\n这段中文句子中的本体是“心”，喻体是“风铃”，“叮咛”是“风铃”发出的声音，“相思”是“心”对远方的思念。\n这段中文句子中的本体是“心”，喻体是“风铃”，“叮咛”是“风铃”发出的声音，“相思”是“心”对远方的思念。\n这段中文句子中的本体是“心”，喻体是“风铃”，“叮咛”是“风铃”发出的声音，“相思”是“心”对远方的思念。\n这段中文句子中的本体是“心”，喻体是“风铃”，“叮咛”是“风铃”发出的声音，“相思”是“心”对远方的思念。\n这段中文句子"
+    },
+    {
+        "metaphor_id": 494,
+        "answer": "本体:一维化的思维\n喻体:直线轨道上的列车\n共性:固定、无法偏航、无法欣赏沿途的风景。\n\n因此答案为：A"
+    },
+    {
+        "metaphor_id": 495,
+        "answer": "\n这段中文句子中的本体是“生命”，喻体是“双脚”，而共性是“生命”和“双脚”。"
+    },
+    {
+        "metaphor_id": 496,
+        "answer": "\n这段中文句子中的本体是“雪”，喻体是“毛毡”，共性是“素白”。"
+    },
+    {
+        "metaphor_id": 497,
+        "answer": "本体：他\n喻体：猴子\n共性：一般丑陋"
+    },
+    {
+        "metaphor_id": 498,
+        "answer": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "metaphor_id": 499,
+        "answer": "本体: 色彩\n喻体: 湿润的绿色画布\n共性: 都为青蛙的皮肤增添了独特的色彩"
+    }
+]

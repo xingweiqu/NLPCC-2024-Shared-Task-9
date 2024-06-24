@@ -103,6 +103,20 @@ For the Rule based Track, The answer must be the only choice from `[A,B,C,D]` as
 
 The top 3 participating teams in each task and track will be certificated by NLPCC and CCF-NLP.
 
+## Benchmark Results
+
+We provide benchmark results for the MAP-NEO and CT-LLM models on two subtasks. You can find the example [code & results file](./benchmark/) for these models in their respective repositories:
+
+- [MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO)
+- [CT-LLM](https://github.com/Chinese-Tiny-LLM/Chinese-Tiny-LLM)
+
+### Results
+
+| Model   | Subtask 1 | Subtask 2 |
+|---------|-----------|-----------|
+| MAP-NEO | 48.4      | 37.8      |
+| CT-LLM  | 22.8      | 5.6       |
+
 ## Contact & Citation
 
 If your publication employs our dataset, please cite the following article:
