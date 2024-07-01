@@ -117,6 +117,41 @@ We provide benchmark results for the MAP-NEO and CT-LLM models on two subtasks. 
 | MAP-NEO | 48.4      | 37.8      |
 | CT-LLM  | 22.8      | 5.6       |
 
+### Leaderboard
+
+#### Subtask 1 Track 1
+Final result：
+<table>
+  <tr> <th>排名 </th><th>队伍名</th><th>A榜</th><th>B榜</th><th>总分</th></tr>
+  <tr> <th>1 </th> <td>kangreen</td><td>98.8</td><td>98.0</td><td>98.4</td></tr>
+  <tr> <th>2 </th> <td>ShaunTheSheep</td><td>96.2</td><td>96</td><td>96.1</td></tr>
+  <tr> <th>3 </th> <td>YNU-HPCC</td><td>96.6</td><td>95.2</td><td>95.9</td></tr>
+</table>
+
+#### Subtask 1 Track 2 
+Final result：
+<table>
+  <tr> <th>排名 </th><th>队伍名</th><th>Score</th><th>
+  <tr> <th>1 </th> <td>YNU-HPCC</td><td>98.4</td></tr>
+</table>
+
+#### Subtask 2 Track 1
+Final result：
+<table>
+  <tr> <th>排名 </th><th>队伍名</th><th>A榜</th><th>B榜</th><th>总分</th></tr>
+  <tr> <th>1 </th> <td>YNU-HPCC</td><td>96.6</td><td>93.6</td><td>95.1</td></tr>
+  <tr> <th>2 </th> <td>ZZU_NLP</td><td>93.8</td><td>91.82</td><td>92.8</td></tr>
+  <tr> <th>3 </th> <td>ShaunTheSheep</td><td>92.2</td><td>92.81</td><td>92.5</td></tr>
+  <tr> <th>4 </th> <td>kangreen</td><td>92.8</td><td>91.8</td><td>92.3</td></tr>
+</table>
+
+#### Subtask 2 Track 2 
+Final result：
+<table>
+  <tr> <th>排名 </th><th>队伍名</th><th>Score</th><th>
+  <tr> <th>1 </th> <td>YNU-HPCC</td><td>95</td></tr>
+</table>
+
 ## Contact & Citation
 
 If your publication employs our dataset, please cite the following article:
