@@ -131,8 +131,8 @@ Final result：
 #### Subtask 1 Track 2 
 Final result：
 <table>
-  <tr> <th>排名 </th><th>队伍名</th><th>Score</th><th>
-  <tr> <th>1 </th> <td>YNU-HPCC</td><td>98.4</td></tr>
+  <tr> <th>排名 </th><th>队伍名</th><th>A榜</th><th>B榜</th><th>总分</th></tr>
+  <tr> <th>1 </th> <td>YNU-HPCC</td><td>98.4</td><td>97.4</td><td>97.9</td></tr>
 </table>
 
 #### Subtask 2 Track 1
@@ -148,8 +148,8 @@ Final result：
 #### Subtask 2 Track 2 
 Final result：
 <table>
-  <tr> <th>排名 </th><th>队伍名</th><th>Score</th><th>
-  <tr> <th>1 </th> <td>YNU-HPCC</td><td>95</td></tr>
+  <tr> <th>排名 </th><th>队伍名</th><th>A榜</th><th>B榜</th><th>总分</th></tr>
+  <tr> <th>1 </th> <td>YNU-HPCC</td><td>95</td><td>93.2</td><td>94.1</td></tr>
 </table>
 
 ## Contact & Citation
