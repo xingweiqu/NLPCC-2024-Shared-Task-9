@@ -3,10 +3,9 @@ Chinese Metaphor Generation Task
 # Task Introduction
 This task is designed to generate Chinese metaphors using machine learning techniques by either effectively identifying the ground or vehicle in the metaphoric relation. It is divided into two subtasks:
 
-SUBTASK 1. Ground Identification: In this subtask, the objective is to generate a metaphor given a pair of TENOR and VEHICLE. The model should identify and produce a metaphor that effectively connects and compares the subject (TENOR) with the object (VEHICLE).
+SUBTASK 1. Metaphor Generation, which involves creating a metaphor from a provided tuple consisting of TENOR, GROUND, and VEHICLE. The goal here is to synthesize a metaphor that aptly connects the subject (TENOR) with the object (VEHICLE), guided by the concept of the GROUND.
 
-SUBTASK 2. Vehicle Identification: The second subtask focuses on creating a metaphor from a provided TENOR and a potential GROUND, which represents the characteristics of the TENOR that the metaphor aims to highlight. The model should produce a metaphor that emphasizes these features.
-
+SUBTASK 2. Metaphor Components Identification, aimed at extracting the TENORs, GROUNDs, and VEHICLEs from a metaphorical sentence. This component requires the identification of metaphor elements that correspond to the specified grounds.
 ## Data Description & Rules
 
 ### Train Data
